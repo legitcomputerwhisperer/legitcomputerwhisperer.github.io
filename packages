@@ -11,5 +11,5 @@ SHA256: d9bedb6903f66b1930606e609bdb5a1f123cc554b6e1e68298c4b504e8694ab0
 Section: Tweaks
 Description: NoATWAKEUP disables the ATWAKEUP daemon (com.apple.atc.atwakeup) from running. Automatically launches even after reboot/restart. Helps reduce battery drain. No settings to configure. REBOOT REQUIRED AFTER INSTALLATION. THIS INSTALLER WILL NOT AUTOMATICALLY REBOOT YOUR DEVICE
 Author: (TheComputerWhisperer <actual.computerwhisperer@gmail.com>
-Depiction: https://the-computer-whisperer.github.io/depic/NoATWAKEUP/index.html
+Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP/index.html
 Name: NoATWAKEUP
