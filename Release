@@ -1,0 +1,9 @@
+Origin: TheComputerWhisperer's Repo
+Label: TheComputerWhisperer's Repo
+Suite: stable
+Version: 1.0
+Codename: TheComputerWhisperer
+Architectures: iphoneos-arm
+Components: main
+Description: TheComputerWhisperer's Development Repo
+MD5Sum:
