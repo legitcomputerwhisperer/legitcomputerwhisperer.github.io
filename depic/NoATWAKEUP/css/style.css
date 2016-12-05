@@ -221,6 +221,10 @@ footer :last-child {
   margin-right:15px
 }
 
+form {
+  text-align: center;
+}
+
 #about {
   margin:0 15px 40px
 }
