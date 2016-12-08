@@ -1,46 +1,77 @@
 <!DOCTYPE html>
-<html >
+<html>
   <head>
     <meta charset="UTF-8">
     <title>NoATWAKEUP</title>
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
 
-
-
         <link rel="stylesheet" href="css/style.css">
 
   </head>
-
   <body>
 
     <body class="depiction">
   <header>
     <h1><b>NoATWAKEUP</b></h1>
   </header>
+  
   <main id="content" role="main">
     <ul>
       <li>
-        NoATWAKEUP disables the ATWAKEUP (com.apple.atc.atwakeup) daemon from running. It automatically launches itself even after a reboot/restart. Disabling ATWAKEUP can help reduce battery drain in some circumstances, and no functionality is lost. There are no settings to configure.
-        </p>
-      </li>
+        NoATWAKEUP is a tweak designed for one purpose: to stop ATWAKEUP (aka com.apple.atc.atwakeup). NoATWAKEUP automatically begins running alongside iOS during every start up - giving it the advantage of launching before ATWAKEUP can. NoATWAKEUP then ensures that ATWAKEUP goes right back to sleep anytime it's summoned, even when it's own Launch Daemon beckons. NoATWAKEUP - always vigilant - observes silently in the background, watching and waiting for ATWAKEUP to step out of line.
+	  </li>
+
+	  <li>
+	  <p style="text-align: center; font-size: 20px;"><b><u>What is ATWAKEUP and what does it do?</u></b>
+	  <p style="text-align: left">Unfortunately Apple doesn't release many details regarding their system binaries or launch daemons, so I spent considerable time researching it as thoroughly as I could. (For more about my research email me or PM on r/jailbreak). The ATWAKEUP daemon sends a signal approximately every 10-30 seconds to any "sleeping" paired Bluetooth connected media device to wake it up...in the event that you decide to press the "Play" button in either the control center or multitasking view.
+	  </li>
+
+	   <li>
+	  <p style="text-align: center; font-size: 20px;"><b><u>What's wrong with ATWAKEUP?</u></b>
+	  <p style="text-align: left">Well, ATWAKEUP isn't ALL bad. ATWAKEUP does work as intended with most devices, causing no issues at all. If you have CrashReporter installed and have never seen a crash report with "atc.atwakeup" or "atwakeup" then chances are you're one of the lucky ones! If you have DetailedBatteryUsage installed and haven't seen "atc.atwakeup" show up in the BATTERY USAGE list then you too are most likely ok! If you haven't had trouble with ATWAKEUP you probably don't need this tweak and any battery savings would most likely be negligible...however it won't hurt anything if you'd like to try it anyway! The majority of those affected with the ATWAKEUP bug report excessive power consumption (battery drain). After polling 17 volunteers from r/jailbreak who were inflicted with the ATWAKEUP bug and whom then installed this tweak, an average net increase in battery life of 35%+ was observed thanks to NoATWAKEUP! Other notable issues include sluggish performance, decreased animation/transition fluidity and excessive heat.
+	  </li>
+
+	  <li>
+	  <p style="text-align: center; font-size: 20px;"><b><u>What could go wrong if I install NoATWAKEUP?</u></b>
+	  <p style="text-aligh: left;">With over 2,100 installations I have yet to receive a single report of broken functionality due to NoATWAKEUP. Of course anything IS possible, and there is a remote possibility that you may experience issue(s) related to waking up a Bluetooth device(s) that plays music or videos in coordination with you device. Please contact me with any issues you experience. You can solve any problem by simply uninstalling the tweak and then rebooting your device.
+	  </li>
+
+	  <li>
+	  <p style="text-align: center; font-size: 20px;"><b><u>FAQS</u></b>
+	  
+	 	<ol>
+	 	  <li><p style="text-align: left;"><i>Can't I just disable ATWAKEUP using iCleaner Pro?</i></br>
+	 	  No because iCleaner Pro doesn't have a toggle for this daemon.</li>
+	 	  </p>
+
+	 	  <li><i>Can't I just use a launchctl command, rename the plist or change the RunAtLoad value to false?</i></br>
+	 	  You can absolutely address the ATWAKEUP issue how you see fit however the methods mentioned above need to be repeated each time your device is restarted or turned off.</li></p>
+	 	
+	 	  <li><i>Is your tweak deleting system files?</i></br> 
+	 	  Absolutely NOT. No system files are modified by this tweak. NoATWAKEUP is purposefully preventing the ATWAKEUP binary and launch daemon from running. Uninstalling this tweak and rebooting your device will return you back to stock in regards to this daemon and executable.</li>
+	 	</ol>
+</p>
       <li>
-        <p style="color: red;"><b>REBOOT REQUIRED AFTER INSTALLATION. THIS INSTALLER WILL NOT AUTOMATICALLY REBOOT YOUR DEVICE!</b>
+        <p style="text-align: center; color: red;"><b>REBOOT REQUIRED AFTER INSTALLATION OR UNINSTALLATION. THIS INSTALLER WILL NOT AUTOMATICALLY REBOOT YOUR DEVICE!</b>
       </li>
     </ul>
     <h2 id="in-this-version">Changelog</h2>
     <ul>
       <li>
-        <p>1.0.2</p><br>
-
-        <p>- <i>BETA Version Released</i></p>
-       
+        <p>1.0.3</p>
+        <p>- <i>Added support for iOS 8.x</i></p>
       </li>
-    </ul>
+
+      <li>
+      <p>1.0.2</p>
+	  <p>- <i>BETA Version Released</i></p>
+		</li>
+	</ul>
     <h2 id="known-issues">Known&nbsp;Issues</h2>
     <ul>
       <li>No current issues.</li>
     </ul>
-    <p class="footer">Please report issues to /u/thecomputerwhisperer.</p>
+    <p class="footer">Please report any issues to /u/thecomputerwhisperer.</p>
    
     <h2>
     <ul>
