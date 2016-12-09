@@ -13,3 +13,19 @@ Description: NoATWAKEUP disables the ATWAKEUP executable and launch daemon (com.
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP/index.html
 Name: NoATWAKEUP
+
+Package: com.thecomputerwhisperer.starwarsintro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Depends: com.aditkamath.springy
+Filename: debs//com.thecomputerwhisperer.starwarsintro_1.0_iphoneos-arm.deb
+Size: 2799192
+MD5sum: c60bb549b8dd08b9e5c20203bb83a8a2
+SHA1: 1ff378f7eb69f96f4ffb68175aab50caebfefc80
+SHA256: 2302283b19f9bc58abdfb10d9cb176a2303850228789a3dfe304c690a4875d0e
+Section: Themes
+Description: Star Wars Animated Intro Text Crawl for Springy
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Star Wars Animated Respring Theme/index.html
+Name: Star Wars Respring Theme

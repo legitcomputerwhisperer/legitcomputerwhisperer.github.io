@@ -182,8 +182,9 @@ ul+[class="footer"],ul+p {
 }
 
 img {
-  max-width:290px
+  vertical-align:middle
 }
+
 
 blockquote {
   border-left:4px solid #c9c9cd;
