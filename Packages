@@ -29,3 +29,19 @@ Description: Star Wars Animated Intro Text Crawl for Springy
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Star Wars Animated Respring Theme/index.html
 Name: Star Wars Respring Theme
+
+Package: com.thecomputerwhisperer.nofamilycircled
+Version: 0.1.1b
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs//com.thecomputerwhisperer.nofamilycircled_0.1.1b_iphoneos-arm.deb
+Size: 1404
+MD5sum: 71fff8be5ac958a21f33b60cb3c24923
+SHA1: c93df7979f10e206e8d4110404e2fc2e69e4ee8e
+SHA256: ef3fc379916f0f4177e5e5f466874b140d0bee24a6f3d3fa9bd9c76cf5d45418
+Section: Tweaks
+Description: !!!BETA VERSION - FOR TESTING ONLY - USE AT YOUR OWN RISK. BY INSTALLTING I AGREE TO INFORM THE DEVELOPER (THECOMPUTERWHISPERER) OF ANY ISSUES ENCOUNTERED!!! NoFAMILYCIRCLED prevents (com.apple.familycircled) the FAMILYCIRCLED daemon from loading & running. Automatically launches even after reboot/restart. Helps reduce battery drain in certain circumastances. No settings to configure. ***REBOOT REQUIRED AFTER INSTALLATION AND UNINSTALLATION. REBOOT NOT REQUIRED IF YOU ARE UPDATING. INSTALLER WILL NOT AUTOMATICALLY REBOOT YOUR DEVICE***
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/NoFAMILYCIRCLED/index.html
+Name: NoFAMILYCIRCLED
