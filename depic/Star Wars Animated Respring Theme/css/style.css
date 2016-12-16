@@ -1,7 +1,9 @@
 iframe {
-  border:0
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
+ 
 a,button {
   color:#007aff;
   text-decoration:none
