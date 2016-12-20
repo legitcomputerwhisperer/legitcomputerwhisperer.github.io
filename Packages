@@ -60,3 +60,18 @@ Section: Themes
 Description: The Tech Compass is an animated electro-mechanical respring theme. Watch as the digital wheel spins emulating the action of unlocking a safe. Requires the animated respring theme platform Springy. Designed to fit the following devices: iPhone 5s/6/6+/6s/6s+/SE.
 Depiction: https://legitcomputerwhisperer.github.io/depic/Tech Compass Animated Respring Theme/index.html
 Name: Tech Compass Animated Respring Theme
+
+Package: com.thecomputerwhisperer.winxpstartup
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer
+Depends: firmware (>= 9.0), com.aditkamath.springy
+Filename: debs//com.thecomputerwhisperer.winxpstartup_1.0_iphoneos-arm.deb
+Size: 2276874
+MD5sum: 9b718ef39f94f38a429910c7d219d683
+SHA1: f20e6d60098a2eb778bb214793387254bc165782
+SHA256: 279c377a3d3159d6554f6b59204b39c4289c756d630037186db0bd9615cf1f27
+Section: Themes
+Description: Feel the nostalgia with this authentic Windows XP Pro loading animation! Requires the animated respring theme platform Springy. Designed to fit the following devices: iPhone 5s/6/6+/6s/6s+/SE.
+Depiction: https://legitcomputerwhisperer.github.io/depic/Windows XP Pro Loading Animation/index.html
+Name: Win XP Pro Loading Animation
