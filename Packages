@@ -1,7 +1,7 @@
 Package: com.thecomputerwhisperer.noatwakeup
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Maintainer: TheComputerWhisperer
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Filename: debs//com.thecomputerwhisperer.noatwakeup_1.0.3_iphoneos-arm.deb
 Size: 1256
@@ -10,13 +10,14 @@ SHA1: 908b971af90cbd1c00102058f5b650091144a4b7
 SHA256: ce041edccb3ed40e479feb31944faeee540fe16e953735df4ea1abdbb1c09b42
 Section: Tweaks
 Description: NoATWAKEUP disables the ATWAKEUP executable and launch daemon (com.apple.atc.atwakeup) from running. Automatically launches even after reboot/restart. Helps reduce battery drain. No settings to configure. ***REBOOT REQUIRED AFTER INSTALLATION OR UNINSTALLATION. THIS INSTALLER WILL NOT AUTOMATICALLY REBOOT YOUR DEVICE***
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP/index.html
 Name: NoATWAKEUP
 
 Package: com.thecomputerwhisperer.starwarsintro
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Maintainer: TheComputerWhisperer
 Depends: com.aditkamath.springy
 Filename: debs//com.thecomputerwhisperer.starwarsintro_1.0_iphoneos-arm.deb
 Size: 2799192
@@ -57,6 +58,7 @@ SHA1: d2ea429bea3159e54692020378885c291244aceb
 SHA256: a97b3475261ed9a37daf4dd3664a6960fc637c55fc7e2714f8d5f16a794b3a09
 Section: Themes
 Description: The Tech Compass is an animated electro-mechanical respring theme. Watch as the digital wheel spins emulating the action of unlocking a safe. Requires the animated respring theme platform Springy. Designed to fit the following devices: iPhone 5s/6/6+/6s/6s+/SE.
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Tech Compass Animated Respring Theme/index.html
 Name: Tech Compass Animated Respring Theme
 
@@ -72,13 +74,14 @@ SHA1: f59591c25f698fe7a05def53cc98f693ea400921
 SHA256: f86f4e24975ad199f4a801c4d6a477f236426cce68855787f4b1acca3e440334
 Section: Themes
 Description: Feel the nostalgia with this authentic Windows XP Pro loading animation! Requires the animated respring theme platform Springy. Designed to fit the following devices: iPhone 5s/6/6+/6s/6s+/SE.
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Windows XP Pro Loading Animation/index.html
 Name: Win XP Pro Loading Animation
 
 Package: com.thecomputerwhisperer.noeditbutton
 Version: 1.1b
 Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Maintainer: TheComputerWhisperer
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Filename: debs//com.thecomputerwhisperer.noeditbutton_1.1b-1+debug_iphoneos-arm.deb
 Size: 5246
@@ -87,5 +90,6 @@ SHA1: d85f9e0736126ce4a642db12891caa2553934eb6
 SHA256: 759c4f4e861f953bea1f4ae24c02246b3297764cfdcdd4444d0013643eba2281
 Section: Tweaks
 Description: Hide the Notification Center "Edit" button for a clean look.
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Hide NC Edit Button/index.html
 Name: Hide NC Edit Button
