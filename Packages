@@ -78,18 +78,18 @@ Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Windows XP Pro Loading Animation/index.html
 Name: Win XP Pro Loading Animation
 
-Package: com.thecomputerwhisperer.noeditbutton
-Version: 1.1b
+Package: com.thecomputerwhisperer.nonceditbutton
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: TheComputerWhisperer
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Filename: debs//com.thecomputerwhisperer.noeditbutton_1.1b-1+debug_iphoneos-arm.deb
-Size: 5246
-MD5sum: 4590e25aad63d57f036220cabacbb563
-SHA1: d85f9e0736126ce4a642db12891caa2553934eb6
-SHA256: 759c4f4e861f953bea1f4ae24c02246b3297764cfdcdd4444d0013643eba2281
+Filename: debs//com.thecomputerwhisperer.nonceditbutton_1.2_iphoneos-arm.deb
+Size: 5232
+MD5sum: 09a491bbe3478615bfa82a196ba3cf16
+SHA1: fa6df5cbeb735b0da2676244172861a2e79f03de
+SHA256: 66cd6fcab9a8ded765885d8709417a506f7a6ecf0c883a223d9d134beef8ad48
 Section: Tweaks
-Description: Hide the Notification Center "Edit" button for a clean look.
+Description: *BETA VERSION* This simple tweak removes the "Edit" button that displays at the bottom of the notification center. Perfect for those who are going for a clean setup!
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/Hide NC Edit Button/index.html
-Name: Hide NC Edit Button
+Depiction: https://legitcomputerwhisperer.github.io/depic/No NC Edit Button/index.html
+Name: No NC Edit Button
