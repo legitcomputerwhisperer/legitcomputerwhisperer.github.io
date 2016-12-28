@@ -75,3 +75,19 @@ Section: Themes
 Description: Feel the nostalgia with this authentic Windows XP Pro loading animation! Requires the animated respring theme platform Springy. Designed to fit the following devices: iPhone 5s/6/6+/6s/6s+/SE.
 Depiction: https://legitcomputerwhisperer.github.io/depic/Windows XP Pro Loading Animation/index.html
 Name: Win XP Pro Loading Animation
+
+Package: com.thecomputerwhisperer.noeditbutton
+Version: 1.1b
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs//com.thecomputerwhisperer.noeditbutton_1.1b-1+debug_iphoneos-arm.deb
+Size: 5246
+MD5sum: 4590e25aad63d57f036220cabacbb563
+SHA1: d85f9e0736126ce4a642db12891caa2553934eb6
+SHA256: 759c4f4e861f953bea1f4ae24c02246b3297764cfdcdd4444d0013643eba2281
+Section: Tweaks
+Description: Hide the Notification Center "Edit" button for a clean look.
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Hide NC Edit Button/index.html
+Name: Hide NC Edit Button
