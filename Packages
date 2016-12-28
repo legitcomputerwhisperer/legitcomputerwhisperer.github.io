@@ -10,7 +10,6 @@ SHA1: 908b971af90cbd1c00102058f5b650091144a4b7
 SHA256: ce041edccb3ed40e479feb31944faeee540fe16e953735df4ea1abdbb1c09b42
 Section: Tweaks
 Description: NoATWAKEUP disables the ATWAKEUP executable and launch daemon (com.apple.atc.atwakeup) from running. Automatically launches even after reboot/restart. Helps reduce battery drain. No settings to configure. ***REBOOT REQUIRED AFTER INSTALLATION OR UNINSTALLATION. THIS INSTALLER WILL NOT AUTOMATICALLY REBOOT YOUR DEVICE***
-Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP/index.html
 Name: NoATWAKEUP
 
@@ -88,6 +87,5 @@ SHA1: d85f9e0736126ce4a642db12891caa2553934eb6
 SHA256: 759c4f4e861f953bea1f4ae24c02246b3297764cfdcdd4444d0013643eba2281
 Section: Tweaks
 Description: Hide the Notification Center "Edit" button for a clean look.
-Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Hide NC Edit Button/index.html
 Name: Hide NC Edit Button
