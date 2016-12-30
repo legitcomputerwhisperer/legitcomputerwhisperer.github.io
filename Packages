@@ -93,3 +93,19 @@ Description: *BETA VERSION* This simple tweak removes the "Edit" button that dis
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/No NC Edit Button/index.html
 Name: No NC Edit Button
+
+Package: com.thecomputerwhisperer.AntennaRemembers
+Version: 0.1.1b
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer
+Depends: mobilesubstrate
+Filename: debs//com.thecomputerwhisperer.AntennaRemembers_1.0.1b_iphoneos-arm.deb
+Size: 5084
+MD5sum: 82ea8c5556268e5b3bd6d48041a4797e
+SHA1: 670baf07da0d13fb544c4fd3931bba06c4bb128c
+SHA256: 38968d2768775b73a93d9d6ff6b441e291644416916b1bd0c7eb09c8d95a8e97
+Section: Tweaks
+Description: The Reddit app Antenna (A.K.A AMRC) only retains history of the last 5 posts visited. AntennaRemembers removes that limitation and preserves your browsing history until the cache is cleared for the app by running an iCleaner Pro cleaning cycle. Side-note: I haven't cleared Antenna's cache on my 6s Plus for almost 2 months (literally tons and tons of posts) and I've never noticed any performance issues :)
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index.html
+Name: AntennaRemembers
