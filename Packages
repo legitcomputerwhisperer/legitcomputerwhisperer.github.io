@@ -109,3 +109,19 @@ Description: The Reddit app Antenna (A.K.A AMRC) only retains history of the las
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index.html
 Name: AntennaRemembers
+
+Package: com.thecomputerwhisperer.nomoresmartlinks
+Version: 1.1.0b
+Architecture: iphoneos-arm
+Maintainer: TheComputerWhisperer
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs//com.thecomputerwhisperer.nomoresmartlinks_1.1.0b-1+debug_iphoneos-arm.deb
+Size: 4912
+MD5sum: 17f15ecbe56de01ab5c043777a514c76
+SHA1: 91e7ed2ad73f6d33615e40985c195e25ea172763
+SHA256: 03e2ad711641cd604637688312767d972666ef777278365a4b262fa0ac1e690a
+Section: Tweaks
+Description: Disables smart hyperlinks in iOS text messages.
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/NoMoreSmartLinks/index.html
+Name: NoMoreSmartLinks
