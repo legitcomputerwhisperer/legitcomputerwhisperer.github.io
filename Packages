@@ -13,20 +13,6 @@ Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index
 Name: AntennaRemembers
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
-Package: com.thecomputerwhisperer.noatwakeup
-Version: 1.0.3
-Section: Tweaks
-Maintainer: TheComputerWhisperer
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.noatwakeup_1.0.3_iphoneos-arm.deb
-Size: 1256
-MD5sum: 370e0b6c05d22037c0e4a154f6687008
-Description: Disable the com.apple.atc.atwakeup system daemon.
-Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP/index.html
-Name: NoATWAKEUP
-Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
-
 Package: com.thecomputerwhisperer.nofamilycircled
 Version: 0.1.1b
 Section: Tweaks
@@ -69,7 +55,7 @@ MD5sum: 09a491bbe3478615bfa82a196ba3cf16
 Description: Hide the Notification Center "Edit" button.
 Depiction: https://legitcomputerwhisperer.github.io/depic/No NC Edit Button/index.html
 Name: NoNCEditButton
-Author: TheComputerWhisperer
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.starwarsintro
 Version: 1.0
