@@ -111,15 +111,15 @@ Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index
 Name: AntennaRemembers
 
 Package: com.thecomputerwhisperer.nomoresmartlinks
-Version: 1.1.0b
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: TheComputerWhisperer
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Filename: debs//com.thecomputerwhisperer.nomoresmartlinks_1.1.0b-1+debug_iphoneos-arm.deb
-Size: 4912
-MD5sum: 17f15ecbe56de01ab5c043777a514c76
-SHA1: 91e7ed2ad73f6d33615e40985c195e25ea172763
-SHA256: 03e2ad711641cd604637688312767d972666ef777278365a4b262fa0ac1e690a
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs//com.thecomputerwhisperer.nomoresmartlinks_1.2-1+debug_iphoneos-arm.deb
+Size: 4908
+MD5sum: 202c3942beaa0b6644a95bc031560073
+SHA1: cfb39cdb73a4daf12217632ea60285ffe06c20f2
+SHA256: 9ae6d32342ca0a6d7f178476f48692e36b541d8d7edb77db952860b0147af29b
 Section: Tweaks
 Description: Disables smart hyperlinks in iOS text messages.
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
