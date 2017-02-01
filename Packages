@@ -57,6 +57,21 @@ Depiction: https://legitcomputerwhisperer.github.io/depic/No%20NC%20Edit%20Butto
 Name: NoNCEditButton
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
+Package: com.thecomputerwhisperer.noatwakeupx
+Version: 0.1b
+Section: Tweaks
+Maintainer: TheComputerWhisperer
+Depends: firmware (>=10.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.noatwakeupx_0.1b_iphoneos-arm.deb
+Size: 1826
+MD5sum: 9235e750c8586b38b603957facaf451c
+Description: BETA for iOS 10.x! Disables the com.apple.atc.atwakeup daemon/process and stops related crashes saving battery life.
+Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP%20X/index.html
+Name: NoATWAKEUP X
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+
+
 Package: com.thecomputerwhisperer.starwarsintro
 Version: 1.0
 Section: Themes
