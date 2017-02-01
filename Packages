@@ -58,15 +58,15 @@ Name: NoNCEditButton
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.noatwakeupx
-Version: 0.1b
+Version: 1.2b
 Section: Tweaks
 Maintainer: TheComputerWhisperer
 Depends: firmware (>=10.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.noatwakeupx_0.1b_iphoneos-arm.deb
-Size: 1826
-MD5sum: 9235e750c8586b38b603957facaf451c
-Description: BETA for iOS 10.x! Disables the com.apple.atc.atwakeup daemon/process and stops related crashes saving battery life.
+Filename: debs//com.thecomputerwhisperer.noatwakeupx_1.2b_iphoneos-arm.deb
+Size: 1882
+MD5sum: 1eef1bc27a12ad4acea6966dcda458b1
+Description: iOS 10 BETA! Disables the com.apple.atc.atwakeup daemon/process and stops related crashes saving battery life.
 Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP%20X/index.html
 Name: NoATWAKEUP X
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
@@ -113,4 +113,3 @@ Description: Animated respring theme for Springy
 Depiction: https://legitcomputerwhisperer.github.io/depic/Windows%20XP%20Pro%20Loading%20Animation/index.html
 Name: Win XP Pro Loading Animation
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
-

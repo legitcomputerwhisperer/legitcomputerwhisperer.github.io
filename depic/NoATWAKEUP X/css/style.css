@@ -241,5 +241,10 @@ form {
 #about {
   margin-left:0;
   margin-right:0
+  }
 }
+
+span.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
 }
