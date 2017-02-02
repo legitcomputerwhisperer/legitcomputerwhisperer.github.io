@@ -71,6 +71,19 @@ Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP%20X/index.h
 Name: NoATWAKEUP X
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
+Package: com.thecomputerwhisperer.chrometabs
+Version: 1.0b
+Section: Tweaks
+Maintainer: TheComputerWhisperer
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.chrometabs_1.0b-1+debug_iphoneos-arm.deb
+Size: 4852
+MD5sum: 6a448d1e3cf61c65295ef53444f0d8cb
+Description: Enable Chrome’s iPad tabbed browsing feature on your iPhone/iPod! Requires Chrome version 56.0.2924.79 or newer.
+Depiction: https://legitcomputerwhisperer.github.io/depic/ChromeTabs/index.html
+Name: ChromeTabs
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.starwarsintro
 Version: 1.0
