@@ -89,7 +89,7 @@ Package: com.thecomputerwhisperer.boldbatterypercent
 Version: 0.1a
 Section: Tweaks
 Maintainer: TheComputerWhisperer
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>=8.0)
+Depends: firmware (>=8.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.boldbatterypercent_0.1a-1+debug_iphoneos-arm.deb
 Size: 4804
