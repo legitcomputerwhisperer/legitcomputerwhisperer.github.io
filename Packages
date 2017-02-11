@@ -72,14 +72,14 @@ Name: NoATWAKEUP X
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.chrometabs
-Version: 1.0rc
+Version: 1.1b
 Section: Tweaks
 Maintainer: TheComputerWhisperer
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.chrometabs_1.0rc_iphoneos-arm.deb
-Size: 4788
-MD5sum: 4c23e7c2d5192d1d15dbfe5cc8c16309
+Filename: debs//com.thecomputerwhisperer.chrometabs_1.1b-1+debug_iphoneos-arm.deb
+Size: 5168
+MD5sum: b017e3a6f0cf187ad1ac83db279c50bb
 Description: Unlock tabbed browsing in Google Chrome for iPhone/iPod! Requires Chrome version 56.0.2924.79 or newer.
 Depiction: https://legitcomputerwhisperer.github.io/depic/ChromeTabs/index.html
 Name: ChromeTabs
