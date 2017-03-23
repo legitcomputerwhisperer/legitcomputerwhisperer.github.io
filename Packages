@@ -2,11 +2,10 @@ Package: com.thecomputerwhisperer.AntennaRemembers
 Version: 1.0.1b-1+debug
 Section: Tweaks
 Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.AntennaRemembers_1.0.1b_iphoneos-arm.deb
 Size: 5084
-Installed-Size: 136
 MD5sum: 82ea8c5556268e5b3bd6d48041a4797e
 Description: The Reddit app Antenna (A.K.A AMRC) only retains history of the last 5 posts visited. AntennaRemembers removes that limitation and preserves your browsing history until the cache is cleared for the app by running an iCleaner Pro cleaning cycle. Side-note: I haven't cleared Antenna's cache on my 6s Plus for almost 2 months (literally tons and tons of posts) and I've never noticed any performance issues :)
 Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index.html
@@ -17,11 +16,10 @@ Package: com.thecomputerwhisperer.boldbatterypercent
 Version: 2.0b
 Section: Tweaks
 Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
-Depends: mobilesubstrate, firmware (>= 8.0)
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.boldbatterypercent_2.0b-1+debug_iphoneos-arm.deb
 Size: 92590
-Installed-Size: 392
 MD5sum: f8592c52d6be1d61ab1949ce5c8fe142
 Description: Make the iOS battery percent text bold!
 Depiction: https://legitcomputerwhisperer.github.io/depic/boldbattery/index.html
@@ -90,7 +88,7 @@ Package: com.thecomputerwhisperer.nonceditbutton
 Version: 1.2-1+debug
 Section: Tweaks
 Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
-Depends: firmware (>=9.0), mobilesubstrate
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.nonceditbutton_1.2_iphoneos-arm.deb
 Size: 5232
