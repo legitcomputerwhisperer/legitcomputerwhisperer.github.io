@@ -1,9 +1,0 @@
-Package: com.thecomputerwhisperer.batteryplus3
-Name: Battery+++
-Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common
-Version: X.1.6_OMEGA+free-Bugs
-Architecture: iphoneos-arm
-Description: Almost 100% Safe For All Devices! 25x+ Battery Life, 135% Speed Boost, Power Profiles And More!
-Maintainer: TCW <actual.computerwhisperer@gmail.com>
-Author: 4/1 TWEAKS <actual.computerwhisperer@gmail.com>
-Section: Tools
