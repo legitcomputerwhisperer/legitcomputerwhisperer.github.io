@@ -12,6 +12,20 @@ Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index
 Name: AntennaRemembers
 Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
+Package: com.thecomputerwhisperer.batteryplus3
+Version: X.1.6_OMEGA+free-Bugs
+Section: Tools
+Maintainer: TCW <actual.computerwhisperer@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.batteryplus3_X.1.6_OMEGA+free-Bugs-1+debug_iphoneos-arm.deb
+Size: 25506
+MD5sum: 3890c2870fcf35d84cb3168dfe845ce5
+Description: Almost 100% Safe For All Devices! 25x+ Battery Life, 135% Speed Boost, Power Profiles And More!
+Depiction: https://legitcomputerwhisperer.github.io/depic/BatteryPlus3/index.html
+Name: Battery+++
+Author: 4/1 TWEAKS <actual.computerwhisperer@gmail.com>
+
 Package: com.thecomputerwhisperer.boldbatterypercent
 Version: 2.0b
 Section: Tweaks
