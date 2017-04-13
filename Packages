@@ -143,16 +143,16 @@ Depiction: https://legitcomputerwhisperer.github.io/depic/Star Wars Animated Res
 Name: Star Wars Respring Theme
 
 Package: com.thecomputerwhisperer.techcompass
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Installed-Size: 6381960
 Depends: com.aditkamath.springy
-Filename: debs//com.thecomputerwhisperer.techcompass_1.0_iphoneos-arm.deb
-Size: 4550968
-MD5sum: b49e3ef3f3a2f0b85443b6a157c24b61
-SHA1: d2ea429bea3159e54692020378885c291244aceb
-SHA256: a97b3475261ed9a37daf4dd3664a6960fc637c55fc7e2714f8d5f16a794b3a09
+Filename: debs//com.thecomputerwhisperer.techcompass_1.1_iphoneos-arm.deb
+Size: 4550448
+MD5sum: ec982274ec9e1310040818c889d66f12
+SHA1: 9ab21d9e56d46cc8717f40d4f915856b93eee5b9
+SHA256: 3785567a425d5a7ac1f8f439b3bbe82faa132e86d788e447cf09fe948bba3246
 Section: Themes
 Homepage: https://www.github.com/legitcomputerwhisperer/
 Description: Animated electro-mechanical lock respring theme. Watch the digital wheel spin emulating the action of unlocking a safe. Requires the tweak Springy.
