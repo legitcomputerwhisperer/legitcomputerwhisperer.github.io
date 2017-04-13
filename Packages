@@ -17,11 +17,11 @@ Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index
 Name: AntennaRemembers
 
 Package: com.thecomputerwhisperer.boldbatterypercent
-Version: 2.0b
+Version: 2.0b-1+debug
 Architecture: iphoneos-arm
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Installed-Size: 392
-Depends: mobilesubstrate, firmware (>= 8.0)
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Filename: debs//com.thecomputerwhisperer.boldbatterypercent_2.0b-1+debug_iphoneos-arm.deb
 Size: 92590
 MD5sum: f8592c52d6be1d61ab1949ce5c8fe142
