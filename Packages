@@ -5,10 +5,10 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: debs//com.thecomputerwhisperer.AntennaRemembers_1.1-2_iphoneos-arm.deb
-Size: 5084
-MD5sum: 82ea8c5556268e5b3bd6d48041a4797e
-SHA1: 670baf07da0d13fb544c4fd3931bba06c4bb128c
-SHA256: 38968d2768775b73a93d9d6ff6b441e291644416916b1bd0c7eb09c8d95a8e97
+Size: 4880
+MD5sum: 5bd54d0635dd1086f1813a3eb0ddcb03
+SHA1: 4313b6f8ae13fa349cf671b9c615421b557ddb4b
+SHA256: 9704feedb29e67a862249bab54fbbaedce324a8a863f2c9c348f11503dcfde1f
 Section: Tweaks
 Homepage: https://www.github.com/legitcomputerwhisperer/
 Description: For the Antenna app - Enable saving all recent browsing history instead of the default limit of 5.
