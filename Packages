@@ -1,180 +1,135 @@
 Package: com.thecomputerwhisperer.AntennaRemembers
 Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: debs//com.thecomputerwhisperer.AntennaRemembers_1.1-2_iphoneos-arm.deb
-Size: 4880
-MD5sum: 5bd54d0635dd1086f1813a3eb0ddcb03
-SHA1: 4313b6f8ae13fa349cf671b9c615421b557ddb4b
-SHA256: 9704feedb29e67a862249bab54fbbaedce324a8a863f2c9c348f11503dcfde1f
 Section: Tweaks
-Homepage: https://www.github.com/legitcomputerwhisperer/
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debfiles/com.thecomputerwhisperer.AntennaRemembers_1.1-2_iphoneos-arm.deb
+Size: 4880
+Installed-Size: 136
+MD5sum: 5bd54d0635dd1086f1813a3eb0ddcb03
 Description: For the Antenna app - Enable saving all recent browsing history instead of the default limit of 5.
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index.html
 Name: AntennaRemembers
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.boldbatterypercent
 Version: 2.0b-1+debug
-Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 392
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
-Filename: debs//com.thecomputerwhisperer.boldbatterypercent_2.0b-1+debug_iphoneos-arm.deb
-Size: 92590
-MD5sum: f8592c52d6be1d61ab1949ce5c8fe142
-SHA1: 1a6b9dd1686cfdc269abf703164541f8bf5e1e47
-SHA256: a7773f6bcfe47face9d8b350d1cdad37d24c1911ded242555fb4b82b9eb05e6e
 Section: Tweaks
-Homepage: https://www.github.com/legitcomputerwhisperer/
+Maintainer: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: .//debfiles/com.thecomputerwhisperer.boldbatterypercent_2.0b-1+debug_iphoneos-arm.deb
+Size: 92590
+Installed-Size: 392
+MD5sum: f8592c52d6be1d61ab1949ce5c8fe142
 Description: Make the iOS battery percent text bold!
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/boldbattery/index.html
 Name: BoldBatteryPercent
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.chrometabs
 Version: 1.1b-1+debug
-Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: debs//com.thecomputerwhisperer.chrometabs_1.1b-1+debug_iphoneos-arm.deb
-Size: 5186
-MD5sum: b017e3a6f0cf187ad1ac83db279c50bb
-SHA1: b8f5a4bcb01f602eedbf6d6c663648fbba34f24c
-SHA256: f1c332230ce4aad2106b775e710d175c0c4aa685b3a71ddcd2c984b666f47919
 Section: Tweaks
-Homepage: https://www.github.com/legitcomputerwhisperer/
-Description: Enable Chrome’s iPad tabbed browsing feature on your iPhone! Requires Chrome app for iOS version 56.0.2924.79 or newer.
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/ChromeTabs/index.html
+Maintainer: TheComputerWhisperer
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: .//debfiles/com.thecomputerwhisperer.chrometabs_1.1b-1+debug_iphoneos-arm.deb
+Size: 5168
+Installed-Size: 120
+MD5sum: b017e3a6f0cf187ad1ac83db279c50bb
+Description: Enable Chrome’s iPad tabbed browsing feature on your iPhone/iPod! Requires Chrome version 56.0.2924.79 or newer.
 Name: ChromeTabs
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.noatwakeupx
 Version: 1.2b
+Section: Tweaks
+Maintainer: TheComputerWhisperer
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 410
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: debs//com.thecomputerwhisperer.noatwakeupx_1.2b_iphoneos-arm.deb
+Filename: .//debfiles/com.thecomputerwhisperer.noatwakeupx_1.2b_iphoneos-arm.deb
 Size: 1882
 MD5sum: 1eef1bc27a12ad4acea6966dcda458b1
-SHA1: 18ce4cf6cf0bd6394c86987a8417ea49e32c9409
-SHA256: f8c7f1aa8d58245a8b0fb971d4e53403fd9d24027ea1edb32b9ee9d8df81a5b1
-Section: Tweaks
-Homepage: https://www.github.com/legitcomputerwhisperer/
 Description: BETA for iOS 10.x! Disables the com.apple.atc.atwakeup daemon/process and stops atwakeup crashes saving battery life.
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP X/index.html
 Name: NoATWAKEUP X
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.nofamilycircled
 Version: 0.1.1b
+Section: Tweaks
+Maintainer: TheComputerWhisperer
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 372
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs//com.thecomputerwhisperer.nofamilycircled_0.1.1b_iphoneos-arm.deb
+Filename: .//debfiles/com.thecomputerwhisperer.nofamilycircled_0.1.1b_iphoneos-arm.deb
 Size: 1404
 MD5sum: 71fff8be5ac958a21f33b60cb3c24923
-SHA1: c93df7979f10e206e8d4110404e2fc2e69e4ee8e
-SHA256: ef3fc379916f0f4177e5e5f466874b140d0bee24a6f3d3fa9bd9c76cf5d45418
-Section: Tweaks
-Homepage: https://www.github.com/legitcomputerwhisperer/
-Description: BETA VERSION FOR TESTING ONLY! Disables the com.apple.familycricled daemon/process and stops familycircled crashes saving battery life. Compatible with iOS 9.x - 10.2
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/NoFAMILYCIRCLED/index.html
+Description: !!!BETA VERSION - FOR TESTING ONLY - USE AT YOUR OWN RISK. BY INSTALLTING I AGREE TO INFORM THE DEVELOPER (THECOMPUTERWHISPERER) OF ANY ISSUES ENCOUNTERED!!! NoFAMILYCIRCLED prevents (com.apple.familycircled) the FAMILYCIRCLED daemon from loading & running. Automatically launches even after reboot/restart. Helps reduce battery drain in certain circumastances. No settings to configure. ***REBOOT REQUIRED AFTER INSTALLATION AND UNINSTALLATION. REBOOT NOT REQUIRED IF YOU ARE UPDATING. INSTALLER WILL NOT AUTOMATICALLY REBOOT YOUR DEVICE***
 Name: NoFAMILYCIRCLED
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.nomoresmartlinks
 Version: 1.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: debs//com.thecomputerwhisperer.nomoresmartlinks_1.2-1+debug_iphoneos-arm.deb
-Size: 4908
-MD5sum: 202c3942beaa0b6644a95bc031560073
-SHA1: cfb39cdb73a4daf12217632ea60285ffe06c20f2
-SHA256: 9ae6d32342ca0a6d7f178476f48692e36b541d8d7edb77db952860b0147af29b
 Section: Tweaks
-Homepage: https://www.github.com/legitcomputerwhisperer/
-Description: Disable smart links in iMessage/SMS text messages.
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/NoMoreSmartLinks/index.html
+Maintainer: TheComputerWhisperer
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: .//debfiles/com.thecomputerwhisperer.nomoresmartlinks_1.2-1+debug_iphoneos-arm.deb
+Size: 4908
+Installed-Size: 136
+MD5sum: 202c3942beaa0b6644a95bc031560073
+Description: Disable smart links in text messages.
 Name: NoMoreSmartLinks
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.nonceditbutton
 Version: 1.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs//com.thecomputerwhisperer.nonceditbutton_1.2_iphoneos-arm.deb
-Size: 5232
-MD5sum: 09a491bbe3478615bfa82a196ba3cf16
-SHA1: fa6df5cbeb735b0da2676244172861a2e79f03de
-SHA256: 66cd6fcab9a8ded765885d8709417a506f7a6ecf0c883a223d9d134beef8ad48
 Section: Tweaks
-Homepage: https://www.github.com/legitcomputerwhisperer/
-Description: Removes the "Edit" button at the bottom of the notification center. Perfect for those who are going for a clean looking setup!
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/No NC Edit Button/index.html
+Maintainer: TheComputerWhisperer
+Depends: firmware (>=9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debfiles/com.thecomputerwhisperer.nonceditbutton_1.2_iphoneos-arm.deb
+Size: 5232
+Installed-Size: 136
+MD5sum: 09a491bbe3478615bfa82a196ba3cf16
+Description: *BETA VERSION* This simple tweak removes the "Edit" button that displays at the bottom of the notification center. Perfect for those who are going for a clean setup!
 Name: NoNCEditButton
+Author: TheComputerWhisperer
 
 Package: com.thecomputerwhisperer.starwarsintro
 Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 4071046
+Section: Themes
+Maintainer: TheComputerWhisperer
 Depends: com.aditkamath.springy
-Filename: debs//com.thecomputerwhisperer.starwarsintro_1.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Filename: .//debfiles/com.thecomputerwhisperer.starwarsintro_1.0_iphoneos-arm.deb
 Size: 2799192
 MD5sum: c60bb549b8dd08b9e5c20203bb83a8a2
-SHA1: 1ff378f7eb69f96f4ffb68175aab50caebfefc80
-SHA256: 2302283b19f9bc58abdfb10d9cb176a2303850228789a3dfe304c690a4875d0e
-Section: Themes
-Homepage: https://www.github.com/legitcomputerwhisperer/
-Description: Animated respring theme featuring the classic intro text crawl from Star Wars "A New Hope". Requires the tweak Springy.
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/Star Wars Animated Respring Theme/index.html
+Description: If you're a Star Wars fan this is the animated respring theme you've been looking for! This respring animation features the classic intro text crawl from "A New Hope". Requires the animated respring theme platform Springy. See images below!
 Name: Star Wars Respring Theme
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.techcompass
 Version: 1.1
-Architecture: iphoneos-arm
+Section: Themes
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 6381960
 Depends: com.aditkamath.springy
-Filename: debs//com.thecomputerwhisperer.techcompass_1.1_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Filename: .//debfiles/com.thecomputerwhisperer.techcompass_1.1_iphoneos-arm.deb
 Size: 4550448
 MD5sum: ec982274ec9e1310040818c889d66f12
-SHA1: 9ab21d9e56d46cc8717f40d4f915856b93eee5b9
-SHA256: 3785567a425d5a7ac1f8f439b3bbe82faa132e86d788e447cf09fe948bba3246
-Section: Themes
-Homepage: https://www.github.com/legitcomputerwhisperer/
 Description: Animated electro-mechanical lock respring theme. Watch the digital wheel spin emulating the action of unlocking a safe. Requires the tweak Springy.
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/Tech Compass Animated Respring Theme/index.html
 Name: Tech Compass - Animated Respring Theme
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 
 Package: com.thecomputerwhisperer.winxpstartup
 Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Installed-Size: 3054452
+Section: Themes
+Maintainer: TheComputerWhisperer
 Depends: com.aditkamath.springy
-Filename: debs//com.thecomputerwhisperer.winxpstartup_1.1_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Filename: .//debfiles/com.thecomputerwhisperer.winxpstartup_1.1_iphoneos-arm.deb
 Size: 2276888
 MD5sum: fee3164010725fb7fcafa7777f45d4d2
-SHA1: f59591c25f698fe7a05def53cc98f693ea400921
-SHA256: f86f4e24975ad199f4a801c4d6a477f236426cce68855787f4b1acca3e440334
-Section: Themes
-Homepage: https://www.github.com/legitcomputerwhisperer/
-Description: Feel the nostalgia with this authentic Windows XP Pro loading animation! Requires the tweak Springy.
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/Windows XP Pro Loading Animation/index.html
+Description: Feel the nostalgia with this authentic Windows XP Pro loading animation! Requires the animated respring theme platform Springy. Designed to fit the following devices: iPhone 5s/6/6+/6s/6s+/SE.
 Name: Win XP Pro Loading Animation
+Author: TheComputerWhisperer <actual.computerwhisperer@gmail.com>
 
