@@ -5,8 +5,8 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.AntennaRemembers_1.1-2_iphoneos-arm.deb
-Size: 5068
-MD5sum: eab8903e64cf5f365ad24e3b565b9f3a
+Size: 4936
+MD5sum: 187e32553ddbab5a59416c5c04e4be29
 Description: For the Antenna app - Enable saving all recent browsing history instead of the default limit of 5.
 Name: AntennaRemembers
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -18,9 +18,9 @@ Section: Tweaks
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.noatwakeupx_1.2b_iphoneos-arm.deb
-Size: 2042
-MD5sum: 2e408b7c3912073b3c07fd6ca8b3b2f0
+Filename: debs//com.thecomputerwhisperer.NoATWAKEUPX_1.2b_iphoneos-arm.deb
+Size: 1932
+MD5sum: 8f7c87d5a6da6f3a48bfd8cbeadfd6e6
 Description: iOS 10 BETA - Disables com.apple.atc.atwakeup daemon/process and stops atwakeup crashes saving you battery life.
 Name: NoATWAKEUP X
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -32,9 +32,9 @@ Section: Tweaks
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate, firmware (<= 9.3.5)
 Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.nofamilycircled_0.1.1b_iphoneos-arm.deb
-Size: 1282
-MD5sum: 0c12c4a695fca309611ff1933218cf02
+Filename: debs//com.thecomputerwhisperer.NoFAMILYCIRCLED_0.1.1b_iphoneos-arm.deb
+Size: 1162
+MD5sum: 67606c6d86a7d70408482d6a4ceb5b11
 Description: BETA - Disables the com.apple.familycircled daemon/process preventing frequent familycircled crashes which saves battery life.
 Name: NoFAMILYCIRCLED
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -47,8 +47,8 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: firmware (>= 10.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.NoFAMILYCIRCLEDX_0.1-6_iphoneos-arm.deb
-Size: 2206
-MD5sum: 1f2cdccce11b7c8a20ffdd16b07eddfb
+Size: 2094
+MD5sum: 4bf0638219d10bdfa9f0e0636ec593ec
 Description: iOS 10 BETA - Disables com.apple.familycircled daemon/process preventing frequent familycircled crashes which saves battery life.
 Name: NoFAMILYCIRCLED X
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -61,8 +61,8 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate, firmware (>= 8.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.boldbatterypercent_2.0b-1+debug_iphoneos-arm.deb
-Size: 92772
-MD5sum: e555f080dacf0ae1c3b30cdda4634beb
+Size: 92472
+MD5sum: ab423c7cab652103a91c0795d50e4cdd
 Description: Make the iOS battery percent text BOLD!
 Name: BoldBatteryPercent
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -75,8 +75,8 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.chrometabs_1.1b-1+debug_iphoneos-arm.deb
-Size: 5168
-MD5sum: dd8f6d17eef49d35a2e3beb145aaad75
+Size: 5156
+MD5sum: 3c04eaab54ac34c8e7fcfa88b1a82090
 Description: Enable Chrome’s iPad tabbed browsing feature on your iPhone/iPod!
 Name: ChromeTabs
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -89,8 +89,8 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: firmware (>= 10.1)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.extendedclips_1.0.2_iphoneos-arm.deb
-Size: 29164506
-MD5sum: 178cadb67e36e3138f248ddec861d2e6
+Size: 29164490
+MD5sum: 531e9a5bc8f00a419fcc78e42e2aa109
 Description: Install the Clips app on iOS 10.1 - 10.2, bypassing Apple's artificial iOS 10.3 requirement. Supports 64-bit devices on iOS 10.1 and above due to required frameworks.
 Name: Extended Clips
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -103,8 +103,8 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate, firmware (>= 8.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.nomoresmartlinks_1.2-1+debug_iphoneos-arm.deb
-Size: 5058
-MD5sum: d042bc76d52048565affaad450f9c7d7
+Size: 4936
+MD5sum: 12f6295f1e7b3a3b8bcd223987b5c8e9
 Description: Disable smart links in text/iMessage messages.
 Name: NoMoreSmartLinks
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -116,9 +116,9 @@ Section: Tweaks
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate, firmware (>= 9.0)
 Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.nonceditbutton_1.2_iphoneos-arm.deb
-Size: 5372
-MD5sum: 97b27228e7dc70ab0bf5e7bd4fa5f729
+Filename: debs//com.thecomputerwhisperer.nonceditbutton_1.2-1+debug_iphoneos-arm.deb
+Size: 5246
+MD5sum: 6e1299a5523aff6be959c2b28b986b8c
 Description: Removes the "Edit" button at the bottom of the notification center. Perfect for those who are going for a clean setup!
 Name: NoNCEditButton
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
