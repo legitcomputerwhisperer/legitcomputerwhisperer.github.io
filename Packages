@@ -26,6 +26,21 @@ Name: NoATWAKEUP X
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/NoATWAKEUP X/index.html
 
+Package: com.thecomputerwhisperer.NoDateToday
+Version: 1.1.4b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.NoDateToday_1.1.4b-1+debug_iphoneos-arm.deb
+Size: 59186
+Installed-Size: 336
+MD5sum: 0a2387f01f3baf3b9fb0f21f0e2fde8e
+Description: Hides the date in Notification Center and Today View. Widget positions adjusted to prevent unsightly gaps.
+Name: No Date Today
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/NoDateToday/index.html
+
 Package: com.thecomputerwhisperer.NoFAMILYCIRCLED
 Version: 0.1.1b
 Section: Tweaks
