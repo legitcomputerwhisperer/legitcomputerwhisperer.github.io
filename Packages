@@ -12,6 +12,21 @@ Name: AntennaRemembers
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index.html
 
+Package: com.thecomputerwhisperer.MyMusicPlus
+Version: 1.0.3b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.MyMusicPlus_1.0.3b-1+debug_iphoneos-arm.deb
+Size: 115204
+Installed-Size: 432
+MD5sum: e4de1f1d5de83c8590172fa24cd82bbc
+Description: Customize your Apple Music app experience!
+Name: My Music +
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/MyMusic/index.html
+
 Package: com.thecomputerwhisperer.NoATWAKEUPX
 Version: 1.2b
 Section: Tweaks
@@ -180,3 +195,4 @@ Description: Feel the nostalgia with the Windows XP Pro respring animation! Requ
 Name: Win XP Pro Loading Animation
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Windows XP Pro Loading Animation/index.html
+
