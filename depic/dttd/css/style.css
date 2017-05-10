@@ -31,18 +31,6 @@ body {
   margin-bottom:0
 }
 
-callout {
-	vertical-align: super;
-	font-size:8px;
-	font-weight:bold;
-	color:#ff0000;
-}
-
-checkbox {
-	font-size:25px;
-	color:blue;
-}
-
 @media (min-width:708px) {
 #content {
   width:708px;
