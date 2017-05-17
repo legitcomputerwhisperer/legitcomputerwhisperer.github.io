@@ -42,6 +42,22 @@ Name: My Music+
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/MyMusic/index.html
 
+Package: com.thecomputerwhisperer.MyMusicPlus
+Version: 1.0.5b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.MyMusicPlus_1.0.5b-1+debug_iphoneos-arm.deb
+Size: 220378
+Installed-Size: 764
+MD5sum: 8cd33985b67cf9f1d32ca1f1c356cc34
+Description: Customize your Apple Music app experience!
+Name: My Music+
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/MyMusic/index.html
+Icon: file:///Library/PreferenceBundles/MyMusicSettings.bundle/icons/icon@2x.png
+
 Package: com.thecomputerwhisperer.NoATWAKEUPX
 Version: 1.2b
 Section: Tweaks
