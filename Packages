@@ -12,6 +12,22 @@ Name: AntennaRemembers
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index.html
 
+Package: com.thecomputerwhisperer.DetailedCellularUsage
+Version: 1.0.1b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.DetailedCellularUsage_1.0.1b-1+debug_iphoneos-arm.deb
+Size: 309766
+Installed-Size: 652
+MD5sum: c5ad32bd05018c780beb46a0ab5e327e
+Description: Expose all cellular usage data including system apps and processes. Deny cellular usage to select system apps.
+Name: DetailedCellularUsage
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/DCU/index.html
+Icon: file:///Library/PreferenceBundles/DCUSettings.bundle/icons/icon@2x.png
+
 Package: com.thecomputerwhisperer.MyMusicPlus
 Version: 1.0.3b-1+debug
 Section: Tweaks
