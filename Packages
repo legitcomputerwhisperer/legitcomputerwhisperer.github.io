@@ -117,6 +117,81 @@ Name: NoFAMILYCIRCLED X
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/NoFAMILYCIRCLEDX/index.html
 
+Package: com.thecomputerwhisperer.SnapshotWiper
+Version: 1.3b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.SnapshotWiper_1.3b-1+debug_iphoneos-arm.deb
+Size: 262070
+MD5sum: 02986ce3f437549aa96b6120a5d6ca50
+Description: Clear Chrome or Safari app switcher snapshot images.
+Name: Snapshot Wiper
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/index.html
+Icon: file:///Library/PreferenceBundles/SNAPsettings.bundle/Resources/assets/icon@2x.png
+
+Package: com.thecomputerwhisperer.SnapshotWiperChrome
+Version: 1.3b
+Section: Utilities
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.SnapshotWiperChrome_1.3b_iphoneos-arm.deb
+Size: 54692
+MD5sum: 6b3f0d87ce7dc4632abfe9a7b7c92c3f
+Description: Quickly clear Chrome app switcher snapshot images with this shortcut.
+Name: Snapshot Wiper Chrome
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/index.html
+Icon: file:///Applications/SnapshotWiperChrome.app/AppIcon29x29@2x.png
+
+Package: com.thecomputerwhisperer.SnapshotWiperSafari
+Version: 1.3b
+Section: Utilities
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.SnapshotWiperSafari_1.3b_iphoneos-arm.deb
+Size: 60626
+MD5sum: 48e98d94b4205b0e405be10fa862b07f
+Description: Quickly clear Safari app switcher snapshot images with this shortcut.
+Name: Snapshot Wiper Safari
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/index.html
+Icon: file:///Applications/SnapshotWiperSafari.app/AppIcon29x29@2x.png
+
+Package: com.thecomputerwhisperer.SpringyX
+Version: 1.0.1
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: org.thebigboss.respringprogress, com.ethanarbuckle.respringprogress, com.hackyouriphone.respringprogress, repo.biteyourapple.net.respringprogress, com.yourepo.abo1bs.respringprogress, com.wizages.springchanger
+Replaces: com.aditkamath.springy, com.wizages.bae
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.SpringyX_1.0.1_iphoneos-arm.deb
+Size: 6549156
+MD5sum: 18c0567be450a5504873ee0af9526f9c
+Description: Springy iOS 10.x compatability package. Springy Copyright 2016 by Adit Kamath.
+Name: SpringyX
+Author: Adit Kamath <adit@aditkamath.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/SpringyX/index.html
+
+Package: com.thecomputerwhisperer.WaddlingDuckRespring
+Version: 1.0
+Section: Themes
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: firmware (<= 9.3.3), com.aditkamath.springy
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.WaddlingDuckRespring_1.0_iphoneos-arm.deb
+Size: 1527616
+MD5sum: 317231359d072eb51884e6ab85934a86
+Description: Animated respring theme featuring an adorable waddling duck. Made as a request from r/jailbreak.
+Name: Waddling Duck Animated Respring Theme
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/WaddlingDuckRespring/index.html
+
 Package: com.thecomputerwhisperer.boldbatterypercent
 Version: 2.0b-1+debug
 Section: Tweaks
