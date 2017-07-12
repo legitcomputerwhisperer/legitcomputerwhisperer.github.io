@@ -303,7 +303,7 @@ MD5sum: 47e577abeaf7a0d8fba6cb512ff8ebc8
 Description: Charge your iDevice silently with Stealth Charger. This tweak simply disables the audible DING and vibration when plugging in your device.
 Name: Stealth Charger
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/stealthcharger/index.html
+Depiction: https://legitcomputerwhisperer.github.io/depic/stealthpower/index.html
 
 Package: com.thecomputerwhisperer.techcompass
 Version: 1.1
