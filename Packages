@@ -290,6 +290,21 @@ Name: Star Wars Respring Theme
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Star Wars Animated Respring Theme/index.html
 
+Package: com.thecomputerwhisperer.stealthcharger
+Version: 1.0.1b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.stealthcharger_1.0.1b-1+debug_iphoneos-arm.deb
+Size: 4682
+Installed-Size: 136
+MD5sum: 47e577abeaf7a0d8fba6cb512ff8ebc8
+Description: Charge your iDevice silently with Stealth Charger. This tweak simply disables the audible DING and vibration when plugging in your device.
+Name: Stealth Charger
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/stealthcharger/index.html
+
 Package: com.thecomputerwhisperer.techcompass
 Version: 1.1
 Section: Themes
