@@ -12,6 +12,22 @@ Name: AntennaRemembers
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/AntennaRemembers/index.html
 
+Package: com.thecomputerwhisperer.AppStoreOnceMore
+Version: 1.0.1b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.AppStoreOnceMore_1.0.1b-1+debug_iphoneos-arm.deb
+Size: 277146
+Installed-Size: 588
+MD5sum: 39a10361f3a7be0b2751faab1755e1ea
+Description: Fix App Store search and update issues caused by recent Jailbreak versions.
+Name: App Store Once More
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/appstoreoncemore/index.html
+Icon: file:///Library/PreferenceBundles/AppStoreOnceMorePrefs.bundle/images/icon@2x.png
+
 Package: com.thecomputerwhisperer.DetailedCellularUsage
 Version: 1.0.1b-1+debug
 Section: Tweaks
@@ -303,7 +319,7 @@ MD5sum: 47e577abeaf7a0d8fba6cb512ff8ebc8
 Description: Charge your iDevice silently with Stealth Charger. This tweak simply disables the audible DING and vibration when plugging in your device.
 Name: Stealth Charger
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/stealthpower/index.html
+Depiction: https://legitcomputerwhisperer.github.io/depic/stealthcharger/index.html
 
 Package: com.thecomputerwhisperer.techcompass
 Version: 1.1
