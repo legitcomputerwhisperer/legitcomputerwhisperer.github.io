@@ -28,6 +28,22 @@ Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/appstoreoncemore/index.html
 Icon: file:///Library/PreferenceBundles/AppStoreOnceMorePrefs.bundle/images/icon@2x.png
 
+Package: com.thecomputerwhisperer.AppStoreOnceMore
+Version: 1.1b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.AppStoreOnceMore_1.1b-1+debug_iphoneos-arm.deb
+Size: 232050
+Installed-Size: 552
+MD5sum: 4c24f5a246a022d9700cbc3e38c6d374
+Description: Fix App Store search and update issues on recent Jailbreak versions.
+Name: App Store Once More
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/appstoreoncemore/index.html
+Icon: file:///Library/PreferenceBundles/AppStoreOnceMorePrefs.bundle/images/icon@2x.png
+
 Package: com.thecomputerwhisperer.DetailedCellularUsage
 Version: 1.0.1b-1+debug
 Section: Tweaks
