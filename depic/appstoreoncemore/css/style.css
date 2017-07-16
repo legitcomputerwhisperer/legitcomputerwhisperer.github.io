@@ -183,7 +183,7 @@ ul+[class="footer"],ul+p {
   margin-top:-25px
 }
 
-img {
+img (max-width:350px) {
   vertical-align:middle
 }
 
