@@ -194,22 +194,6 @@ Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/index.html
 Icon: file:///Applications/SnapshotWiperSafari.app/AppIcon29x29@2x.png
 
-Package: com.thecomputerwhisperer.SpringyX
-Version: 1.0.1
-Section: Tweaks
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, org.thebigboss.libcolorpicker
-Conflicts: org.thebigboss.respringprogress, com.ethanarbuckle.respringprogress, com.hackyouriphone.respringprogress, repo.biteyourapple.net.respringprogress, com.yourepo.abo1bs.respringprogress, com.wizages.springchanger
-Replaces: com.aditkamath.springy, com.wizages.bae
-Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.SpringyX_1.0.1_iphoneos-arm.deb
-Size: 6549156
-MD5sum: 18c0567be450a5504873ee0af9526f9c
-Description: Springy iOS 10.x compatability package. Springy Copyright 2016 by Adit Kamath.
-Name: SpringyX
-Author: Adit Kamath <adit@aditkamath.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/SpringyX/index.html
-
 Package: com.thecomputerwhisperer.WaddlingDuckRespring
 Version: 1.0
 Section: Themes
