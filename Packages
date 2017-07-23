@@ -162,7 +162,7 @@ Description: Clear Chrome or Safari app switcher snapshot images.
 Name: Snapshot Wiper
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/index.html
-Icon: file:///Library/PreferenceBundles/SNAPsettings.bundle/Resources/assets/icon@2x.png
+Icon: depic//SnapShotWiper/images/icon@2x.png
 
 Package: com.thecomputerwhisperer.SnapshotWiperChrome
 Version: 1.3b
