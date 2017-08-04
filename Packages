@@ -153,16 +153,16 @@ Package: com.thecomputerwhisperer.SnapshotWiper
 Version: 1.3b-1+debug
 Section: Tweaks
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depends: mobilesubstrate, firmware (>= 9.0)
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.SnapshotWiper_1.3b-1+debug_iphoneos-arm.deb
-Size: 262070
-MD5sum: 02986ce3f437549aa96b6120a5d6ca50
+Size: 262014
+MD5sum: 8ed2eab5b588296ea614a212450d970d
 Description: Clear Chrome or Safari app switcher snapshot images.
 Name: Snapshot Wiper
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/index.html
-Icon: depic//SnapShotWiper/images/icon@2x.png
+Icon: file:///Library/PreferenceBundles/SNAPsettings.bundle/Resources/assets/icon@2x.png
 
 Package: com.thecomputerwhisperer.SnapshotWiperChrome
 Version: 1.3b
@@ -171,12 +171,12 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate, firmware (>= 9.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.SnapshotWiperChrome_1.3b_iphoneos-arm.deb
-Size: 54692
-MD5sum: 6b3f0d87ce7dc4632abfe9a7b7c92c3f
+Size: 54676
+MD5sum: 384d44ff9da46e6bbbee49d6e4183ca8
 Description: Quickly clear Chrome app switcher snapshot images with this shortcut.
-Name: Snapshot Wiper Chrome
+Name: Snapshot Wiper Chrome (SpringBoard Shortcut)
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/index.html
+Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/SnapshotWiperChrome.html
 Icon: file:///Applications/SnapshotWiperChrome.app/AppIcon29x29@2x.png
 
 Package: com.thecomputerwhisperer.SnapshotWiperSafari
@@ -186,12 +186,12 @@ Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: mobilesubstrate, firmware (>= 9.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.SnapshotWiperSafari_1.3b_iphoneos-arm.deb
-Size: 60626
-MD5sum: 48e98d94b4205b0e405be10fa862b07f
+Size: 60618
+MD5sum: 5f44cb815e4a03365d86ee36223ef0c7
 Description: Quickly clear Safari app switcher snapshot images with this shortcut.
-Name: Snapshot Wiper Safari
+Name: Snapshot Wiper Safari (SpringBoard Shortcut)
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/index.html
+Depiction: https://legitcomputerwhisperer.github.io/depic/SnapshotWiper/SnapshotWiperSafari.html
 Icon: file:///Applications/SnapshotWiperSafari.app/AppIcon29x29@2x.png
 
 Package: com.thecomputerwhisperer.WaddlingDuckRespring

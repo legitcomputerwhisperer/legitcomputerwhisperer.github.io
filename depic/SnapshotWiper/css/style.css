@@ -211,6 +211,11 @@ code {
   font-family:"Source Code Pro",Monaco,Menlo,Consolas,monospace
 }
 
+@screenshotsTitle {
+    font-family: 'GoogleIcons';
+    src: url('/fonts/Material1.ttf');
+}
+
 header .date {
   float:right;
   margin-top:0;
