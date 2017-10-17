@@ -1,0 +1,12 @@
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+	body > panel {
+		border-top: 0.5px solid #a0a0a0;
+		border-bottom: 0.5px solid #a0a0a0;
+
+	}
+
+	body > panel > fieldset+fieldset {
+		border-top: 0.5px solid #a0a0a0;
+	}
+	
+}

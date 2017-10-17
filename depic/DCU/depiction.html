@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DetailedCellularUsage</title>
+
+	<base target="_blank"/>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name ="description" content="Discover HIDDEN cellular data usage." />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0">
+	
+	<link rel="stylesheet" type="text/css" href="/css/classicJayCSSStyle.css">
+	<link rel="stylesheet" type="text/css" href="css/neuvo.css"/>
+	<link rel="stylesheet" type="text/css" href="css/thinseparator.css"/>
+	<script type="text/javascript" src="/js/classicJayStyle.js"></script>
+	
+	<script type="text/javascript">
+	if(navigator.userAgent.search(/Cydia/)!=-1) {
+		var title=document.title;
+		var dot=title.indexOf('·');
+		if(dot!=-1)
+			document.title=title.substring(0,dot);
+	}
+	</script>
+	
+	<meta property="og:image" content="http://cydia.saurik.com/icon@2x/com.thecomputerwhisperer.detailedcellularusage.png">
+	<script type="text/javascript" src="js/menes.js"></script>
+	
+	<script type="text/javascript">
+	var load=function() {
+		var node=document.getElementById('depiction-src');
+		var frame=window.frames['depiction'];
+		try {node.height=frame.document.body.scrollHeight;
+		}
+	catch(e){}
+	};
+	</script>
+	
+	<style type="text/css">
+
+	#header {
+		position:relative;
+		margin:9px
+	}
+	
+	#icon {
+		display:inline-block;
+		vertical-align:top;
+		height:64px;
+		width:64px
+	}
+	
+	#icon div {
+		position:absolute;
+		left:32px;
+		font-size:0
+	}
+	
+	#icon span {
+		display:table-cell;
+		vertical-align:middle;
+		height:64px;
+		line-height:normal
+	}
+
+	#icon img {
+		position:relative;
+		left:-25%;
+		width:50%;
+		-moz-border-radius:9px;
+		-webkit-border-radius:9px
+	}
+		
+	#content {
+		display:inline-block;
+		padding:6px;
+		height:64px;
+		width:233px;
+		position:relative
+	}
+	
+	#name {
+		margin-bottom:8px;
+		font-weight:bold;
+		font-size:17px;
+		overflow:hidden;
+		text-overflow:ellipsis;
+		white-space:nowrap
+	}
+	
+	#latest {
+		display:inline;
+		color:#358
+	}
+
+	#extra {
+		display:inline-block;
+		color:#358;
+		font-size:12px;
+		position:absolute;
+		bottom:6px;
+		right:6px
+	}
+	
+	#id,#contact {
+		white-space:nowrap
+	}
+	
+	iframe{width:100%}.cytyle-faux .cytyle-app>div.icon{background-image:url(/icon@2x/cydia6.png)}.cytyle-flat .cytyle-app>div.icon{background-image:url(/icon@2x/cydia7.png)}
+
+		</style>
+</head>
+
+	<script type="text/javascript">
+		Window.prototype.alert=function(){};
+	</script>
+
+
+	<script type="text/javascript">
+	function moveChildren(src, dest) {
+		one = document.getElementById(src);
+		two = document.getElementById(dest);
+		while (one.hasChildNodes())
+	    	two.appendChild(one.childNodes[0]);
+	}
+	</script>
+
+<script type="text/javascript">
+(function() {
+     var update = function() {
+         if (window.parent != window)
+             parent.postMessage({cytyle: {name: "iframe-y", value: document.body.scrollHeight}}, "*");
+     };
+     window.addEventListener('message', function(event) {
+         var message = event.data.cytyle;
+         if (message == undefined)
+             return;
+         switch (message.name) {
+             case "iframe-y":
+                 var height = message.value;
+                 var iframes = document.getElementsByTagName("iframe");
+                 if (iframes.length != 1)
+                     return;
+                 var iframe = iframes.item(0);
+                 iframe.style.height = height + 'px';
+                 update();
+             break;
+         }
+     }, false);
+     window.addEventListener('DOMContentLoaded', update, false);
+ })();
+</script>
+
+<body>
+
+	<div style="text-align:center;">
+		<img width="360" src="ASSETS/repoHeader.png" /> 
+	</div>
+
+	</p>
+	</br>
+
+	<div style="text-align:center; color:red; font-size:14px; font-weight:regular;">
+		Reveals <b>HIDDEN</b> cellular data usage details that <i>Apple</i> doesn't want you to see!
+	</div>
+
+	<panel>
+		<fieldset style="clear:both" id="description">
+			<label>DEPICTION</label>
+	
+			<div style="color:gray">Compatible with iOS 8 ➜ 10.2<br></div>
+			
+			Did you know that the cellular data usage reported by iOS is inaccurate, and that Apple has been hiding some important details from you? 
+		</p>
+		</p>
+		<br>
+			If you'd like to know the <b>REAL</b> story behind your mobile data usage then <b>DetailedCellularUsage</b> is just what you've been looking for!
+		</p>
+		</p>
+		<br>
+			Cellular data used by Apple's internal system apps and processes is hidden by default...but not for long once DCU is installed! In addition to fully revealing cellular data usage details, DCU also enables the ability to manage cell data access to select system apps, processes & daemons - giving you even <u>more</u> control over how your data is used.
+		</p>
+		</p>
+		<br>
+			DetailedCellularUsage is compatible with all cellular-capable iPhone's & iPad's running iOS 8 ➜ 10.2 (personally tested on iOS 8.4, 9.0.2, 9.3.3, 9.3.5, 10.1.1 & 10.2).
+		</p>
+		</p>
+		<br>
+			DCU is <b><i>enabled by default after installation</i></b>. You'll find a switch to enable/disable DCU on the default iOS Cellular Data page in the Settings app (ottom of the page). Enabling or disabling DCU will automatically trigger the cellular usage report to refresh.
+		</p>
+		</p>
+		<br>
+			No respring required after installation. Please contact me if you have any questions or need any additional information or support.
+		</p>
+		</p>
+		<br>
+
+	<div style="text-align:center;">
+	<img width="268" src="ASSETS/v203/DCU2_APPS_LARGE.png" /> 
+	</div>
+	
+	<div style="text-align:center;"> 
+	<img width="268" src="ASSETS/v203/DCU2_PROCESSES_LARGE.png" /> 
+	</div>
+			
+	</div>
+	</fieldset>
+</panel>
+
+<script  type="text/javascript">
+ MakeImgLinks();
+</script>
+
+<panel>
+	<fieldset style="clear:both">
+		<label>CHANGELOG</label>
+		<div>
+			<table class="information" cols="2" border="0">
+				<tr>
+					<td class="key">Version 2.0.3b:</td>
+					<td class="detail">Completely Rewritten, w/Support for iOS 8!</td>
+				</tr>
+				
+				<tr>
+					<td class="key">Version 1.0.2:</td>
+					<td class="detail">BigBoss Release Version</td>
+				</tr>
+		
+				<tr>
+					<td class="key">Version 1.0.1b:</td>
+					<td class="detail">Added Support for iOS 9</td>
+				</tr>
+				
+				<tr>
+					<td class="key">Version 1.0.0b:</td>
+					<td class="detail">Initial Public Beta Release</td>
+				</tr>
+			</table>
+		</div>
+	</fieldset>
+
+	<fieldset style="clear:both">
+		<label>KNOWN ISSUES</label>
+		<div>
+			<table class="information" cols="2" border="0">
+			<tr>
+				<td class="key">Version 2.0.3b</td>
+				<td class="detail">No reported issues.</td>
+			</tr>
+		</table>
+		<div style="text-align:center; font-size:13px; color:#fc0000; font-weight:regular"></br></p> 
+		Please report issues to: /u/TheComputerWhisperer (<i>Reddit</i>) </p>or via email (above).</p>
+			</div>
+	</fieldset>
+
+	<fieldset style="clear:both">
+		<label>INFORMATION</label>
+		<div>
+			<table class="information" cols="2" border="0">
+				<tr>
+					<td class="key">Current Version:</td>
+					<td class="detail">2.0.3b</td>
+				</tr>
+				
+				<tr>
+					<td class="key">Updated:</td>
+					<td class="detail">October 17, 2017</td>
+				</tr>
+		
+				<tr>
+					<td class="key">License:</td>
+					<td class="detail">Free Package</td>
+				</tr>
+			</table>
+		</div>
+	</fieldset>
+</panel>
+
+<panel>
+	<fieldset style="clear:both">
+		<a class="button" href="http://www.reddit.com/u/TheComputerWhisperer"><img class="icon" width="28" src="ASSETS/TCW@2x.png">u/TheComputerWhisperer <i>@ Reddit</i></a>
+		</div>
+	</fieldset>
+	
+	<fieldset>
+	
+	<a class="button" href="mailto:ActualComputerWhisperer@gmail.com?Subject=Email%20From%20User%20on%20DCU%20Depiction"><img class="icon" width="38" src="ASSETS/email@2x.png"> Email Developer</a>
+	</div>
+	</fieldset>
+	
+</panel>
+	           
+	</p>
+	</br>
+	
+	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+
+		<input type="image" src="https://legitcomputerwhisperer.github.io/depic/Donatebutton.png" border="0" name="submit" alt="Show your support for developers by donating today!">
+
+		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+	
+	</br>
+	<p style="color: white; text-align: center;"><b>SHOW YOUR SUPPORT FOR USEFUL FREE TWEAKS, TOOLS, UTILITIES & THEMES FROM</b>
+	
+	<div style="text-align:center; padding-top:8px">
+	<img width="50" src="ASSETS/TCW@2x.png" /> 
+	</div>
+	
+	<p style="color:yellow; text-align:center; font-size:17px; padding-top:6px">TheComputerWhisperer</p>
+	</p>
+	<br>
+	</ul>
+
+	</body>
+</html>
