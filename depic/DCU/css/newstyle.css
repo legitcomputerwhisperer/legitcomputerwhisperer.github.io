@@ -175,11 +175,13 @@ body > panel > fieldset > div > p+p {
 }
 
 body > panel > fieldset > div img {
+	text-align:center;
 	outline: solid rgba(204,204,204,0.3) 1px;
 	outline-offset: -1px;
 	zoom: 1.05;
 	-moz-transform: scale(1.05);
-	margin:5px 2px
+	margin:5px 5px;
+	padding-left:8px;
 }
 
 body > panel > fieldset > div * {
