@@ -1,4 +1,4 @@
-@import 'refresh.css';
+@import 'resetstyle.css';
 
 .ios9-lightblue {color:#54C7FC;}
 .ios9-blue {color:#0076FF;}
@@ -21,11 +21,12 @@ body {
 	margin: 9px auto;
 	width: device-width;
 	max-width: 414px !important;
-	font-family: ".SFNSText-Regular", -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
-	background-color: #222222;
+	font-family: ".SFNSText-Medium", -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
+	color: #cecece;
+	background-color: #212121;
 	min-font-size: 13px;
 	font-size: 13px;
-	text-align:center;
+	text-align:justify;
 }
 
 body > panel {
@@ -33,39 +34,41 @@ body > panel {
 	width: 100%;
 	margin: 0;
 	border:0;
-	border-top: 1px solid #4b4b4b;
-	border-bottom: 1px solid #4b4b4b;
+	border-top: 1px solid #ffff10;
+	border-bottom: 1px solid #ffff10;
 	margin-top:9px;
 	margin-bottom:9px;
-	background-color: black;
-	text-align:left;
+	background-color:black;
+	text-align:justify;
 }
 
 body > panel > fieldset {
 	display: block;
-	padding: 0 15px;
-	background-color: black;
-	color: white;
-	line-height: 18px;
+	background-color:#000000;
+	color: #cecece;
+	line-height: 25px;
 	border:0;
+	text-align: left;
 }
 
 body > panel > fieldset+fieldset {
-	margin-left:15px;
+	margin-left:5px;
 	padding-left: 0;
-	border-top: 1px solid #4b4b4b;
+	border-top: 1px solid #ffff10;
+	text-align: left;
 }
 
 body > panel > fieldset:last-child {
+	padding-top:15px;
 	padding-bottom:1px;
 }
 
 body > panel > fieldset.alert {
-	font-weight: regular;
+	font-weight: bold;
 	font-size: 15px;
 	padding-top: 14px;
 	padding-bottom: 0px;
-	text-align:center;
+	text-align:left;
 }
 
 body > panel > fieldset.alert > div > a {
@@ -74,24 +77,24 @@ body > panel > fieldset.alert > div > a {
 }
 
 body > panel > fieldset.alert > div > a:link, body > panel > fieldset.alert > div > a:visited {
-	color:black;
+	color:white;
 	text-decoration:none;
 }
 
 body > panel > fieldset.warn {
-	color: black;
+	color: white;
 	background-color: #ff3824;
 }
 
 body > panel > fieldset.okay {
-	color: black;
-	background-color: MediumSeaGreen;
+	color: white;
+	background-color: #cecece;
 }
 
 body > panel > fieldset > label {
 	font-size: 17px;
 	display: block;
-	color:yellow;
+	color:black;
 	position:relative;
 	padding-top: 13.5px;
 	padding-bottom: 14px;
@@ -100,41 +103,43 @@ body > panel > fieldset > label {
 body > panel > fieldset > label > a > img.icon,
 body > panel > fieldset > div > img.icon {
 	display:none;
+	padding-top: 8px;
 }
 
 body > panel > fieldset > div a:link, body > panel > fieldset > div a:visited {
 	text-decoration:none;
-	color: #0064c0;
+	color: #0076ff;
 }
 
 body > panel > fieldset > div > p a:link, body > panel > fieldset > div > p a:visited {
 	text-decoration:none;
-	color: #0064c0;
+	color: #0076ff;
 }
 
 body > panel > fieldset > label a:link, body > panel > fieldset > label a:visited {
 	text-decoration:none;
-	color: #0064c0;
+	color: #0076ff;
 }
 
 body > panel > fieldset > a.button:link, body > panel > fieldset > a.button:visited {
 	text-decoration:none;
-	color: #0064c0;
+	color: #0076ff;
+	text-align:left;
 }
 
 body > panel > fieldset > a.button {
 	display: block;
 	width: 100%;
-	padding-left: 10px;
 	padding-right: 0;
-	font-size: 17px;
+	font-size: 18px;
 	display: block;
-	color: yellow;
-	position:relative;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	margin-top:2px;
-	margin-bottom:2px;
+	color:white;
+	position:static;
+	padding-top: 0;
+	padding-bottom: 12px;
+	margin-top:8px;
+	margin-bottom:8px;
+	margin-left:15px;
 	background-repeat: no-repeat;
 	background-image: url(ios7-chevron.png);
 	background-position: right;
@@ -148,7 +153,7 @@ body > panel > fieldset > a.button {
 }
 
 body > panel > fieldset > div {
-padding-bottom: 14px;
+	padding-bottom: 14px;
 }
 
 body > panel > fieldset > div iframe {
@@ -161,7 +166,7 @@ body > panel > fieldset > div iframe {
 }
 
 body > panel > fieldset > div {
-	margin-top:0px
+	margin-top:8px
 	margin-bottom:8px;
 }
 
@@ -170,7 +175,7 @@ body > panel > fieldset > div > p+p {
 }
 
 body > panel > fieldset > div img {
-	outline: solid rgba(204,204,204,0.5) 2px;
+	outline: solid rgba(204,204,204,0.3) 1px;
 	outline-offset: -1px;
 	zoom: 1.05;
 	-moz-transform: scale(1.05);
@@ -182,7 +187,7 @@ body > panel > fieldset > div * {
 }
 
 body > panel > fieldset > div > table.information {
-	margin-left:14px;
+	margin-left:5px;
 }
 
 body > panel > fieldset > div > table.information > tbody > tr > td {
@@ -190,17 +195,22 @@ body > panel > fieldset > div > table.information > tbody > tr > td {
 }
 
 body > panel > fieldset > div > table.information > tbody > tr:last-child > td {
-	padding-bottom: 0px;
+	padding-bottom: 5px;
 }
 
 body > panel > fieldset > div > table.information > tbody > tr > td.key {
 	color:#999;
-	padding-right:12px;
-	text-align:left;
+	padding-right:5px;
+	text-align:right;
 }
 
 ul, ol {
 	padding: 8px 18px;
+}
+
+div.footer {
+	font-size: 26px;
+	color:#FF0000;
 }
 
 div.header {
@@ -228,7 +238,7 @@ fieldset.black {
 
 body.pinstripe {
 	text-align:center;
-	background-color: #303030 !important;
+	background-color: #e9e9ee !important;
 	-webkit-animation-duration: .5s;
 	-webkit-animation-fill-mode: both;
 	-webkit-animation-name: screenshots;
@@ -249,7 +259,7 @@ body.pinstripe > panel > fieldset > div > p {
 
 body.pinstripe > panel > img{
 	margin:8px 0;
-	outline: solid rgba(190,190,190,0.3) 2px;
+	outline: solid rgba(204,204,204,0.3) 1px;
 	outline-offset: -1px;
 	zoom: 0.88;
 	-moz-transform: scale(0.88);
@@ -272,11 +282,6 @@ body.pinstripe > panel > div#scroller > div.horizontal-scroll-area > img {
 body div.center {
 	text-align:left;
 	margin:15px;
-}
-
-body div.footer {
-	font-size: 24px;
-	color:#FF0000;
 }
 
 @media (min-width: 375px) {
