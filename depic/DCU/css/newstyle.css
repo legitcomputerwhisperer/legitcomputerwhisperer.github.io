@@ -20,7 +20,7 @@ body {
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	margin: 9px auto;
 	width: device-width;
-	max-width: 320px !important;
+	max-width: 310px !important;
 	font-family: ".SFNSText-Regular", -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
 	color: #cecece;
 	background-color: #212121;
@@ -224,7 +224,7 @@ div.footer {
 
 div.header {
 	display:block;
-	width: 316px;
+	width: 300px;
 	text-align: center;
 	margin-top: -10px;
 }
@@ -293,7 +293,7 @@ body.pinstripe > panel > div#scroller {
 }
 
 body.pinstripe > panel > div#scroller > div.horizontal-scroll-area {
-	width:320px !important;
+	width:310px !important;
 	margin: 0 auto;
 }
 
@@ -306,7 +306,7 @@ body div.center {
 	margin:15px;
 }
 
-@media (min-width: 295px) {
+@media (min-width: 290px) {
 	body > panel > fieldset > div img{
 		zoom: 1.25;
 		-moz-transform: scale(1.25);
@@ -323,7 +323,7 @@ body div.center {
 	}
 }
 
-@media (min-width: 295px) {
+@media (min-width: 290px) {
 	body > panel > fieldset > div img{
 		zoom: 1.38;
 		-moz-transform: scale(1.38);
