@@ -20,11 +20,11 @@ body {
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	margin: 9px auto;
 	width: device-width;
-	max-width: 414px !important;
-	font-family: ".SFNSText-Medium", -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
+	max-width: 320px !important;
+	font-family: ".SFNSText-Regular", -apple-system, "Helvetica Neue", "Lucida Grande", sans-serif;
 	color: #cecece;
 	background-color: #212121;
-	min-font-size: 13px;
+	min-font-size: 11px;
 	font-size: 13px;
 	text-align:justify;
 }
@@ -36,18 +36,21 @@ body > panel {
 	border:0;
 	border-top: 1px solid #ffff10;
 	border-bottom: 1px solid #ffff10;
-	margin-top:9px;
-	margin-bottom:9px;
+	border-left: 1px solid #ffff10;
+	border-right: 1px solid #ffff10;
+	margin-top:5px;
+	margin-bottom:5px;
 	background-color:black;
 	text-align:justify;
 }
 
-body > panel > fieldset {
+body > panel > fieldset.header {
 	display: block;
 	background-color:#000000;
 	color: #cecece;
-	line-height: 25px;
+	line-height: 20px;
 	border:0;
+	padding-top:-5px
 	text-align: left;
 }
 
@@ -59,8 +62,10 @@ body > panel > fieldset+fieldset {
 }
 
 body > panel > fieldset:last-child {
-	padding-top:15px;
-	padding-bottom:1px;
+	padding-top:5px;
+	padding-bottom:12px;
+	padding-left:12px;
+	padding-right:12px;
 }
 
 body > panel > fieldset.alert {
@@ -131,15 +136,14 @@ body > panel > fieldset > a.button {
 	display: block;
 	width: 100%;
 	padding-right: 0;
-	font-size: 18px;
-	display: block;
+	font-size: 13px;
 	color:white;
 	position:static;
 	padding-top: 0;
-	padding-bottom: 12px;
+	padding-bottom: 6px;
 	margin-top:8px;
 	margin-bottom:8px;
-	margin-left:15px;
+	margin-left:0px;
 	background-repeat: no-repeat;
 	background-image: url(ios7-chevron.png);
 	background-position: right;
@@ -189,7 +193,10 @@ body > panel > fieldset > div * {
 }
 
 body > panel > fieldset > div > table.information {
-	margin-left:5px;
+	text-align:left;
+	font-size:11px;
+	margin-left:0px;
+	padding-top:8px;
 }
 
 body > panel > fieldset > div > table.information > tbody > tr > td {
@@ -203,7 +210,7 @@ body > panel > fieldset > div > table.information > tbody > tr:last-child > td {
 body > panel > fieldset > div > table.information > tbody > tr > td.key {
 	color:#999;
 	padding-right:5px;
-	text-align:right;
+	text-align:left;
 }
 
 ul, ol {
@@ -216,7 +223,10 @@ div.footer {
 }
 
 div.header {
-	display:none;
+	display:block;
+	width: 316px;
+	text-align: center;
+	margin-top: -10px;
 }
 
 div.pic {
@@ -238,6 +248,18 @@ fieldset.black {
 	}
 }
 
+@keyframes header {
+	from {
+		opacity: 0;
+		-webkit-transform: translate(0, 200px);
+	}
+	to {
+		opacity: 1;
+		zoom: 0.88;
+	    -moz-transform: scale(0.88);
+	}
+}
+
 body.pinstripe {
 	text-align:center;
 	background-color: #e9e9ee !important;
@@ -256,8 +278,6 @@ body.pinstripe > panel > fieldset > div > p {
 	text-align:left;
 	margin:15px inherit;
 }
-
-
 
 body.pinstripe > panel > img{
 	margin:8px 0;
@@ -286,7 +306,7 @@ body div.center {
 	margin:15px;
 }
 
-@media (min-width: 375px) {
+@media (min-width: 295px) {
 	body > panel > fieldset > div img{
 		zoom: 1.25;
 		-moz-transform: scale(1.25);
@@ -303,7 +323,7 @@ body div.center {
 	}
 }
 
-@media (min-width: 414px) {
+@media (min-width: 295px) {
 	body > panel > fieldset > div img{
 		zoom: 1.38;
 		-moz-transform: scale(1.38);
