@@ -165,6 +165,22 @@ Name: NoFAMILYCIRCLED X
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/NoFAMILYCIRCLEDX/index.html
 
+Package: com.thecomputerwhisperer.Print2PDF10
+Version: 1.0.1
+Section: Utilities
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.Print2PDF10_1.0.1_iphoneos-arm.deb
+Size: 21286
+Installed-Size: 192
+MD5sum: fd196809469db8665085b124231a3844
+Description: Virtual PDF document printer for iOS 10.
+Name: Print2PDF10
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Print2PDF10/index.html
+Icon: file:///var/mobile/Library/Application Support/Print2PDF10/P2PDF10icon.png
+
 Package: com.thecomputerwhisperer.SnapshotWiper
 Version: 1.3b-1+debug
 Section: Tweaks
