@@ -45,6 +45,22 @@ Depiction: https://legitcomputerwhisperer.github.io/depic/appstoreoncemore/index
 Icon: file:///Library/PreferenceBundles/AppStoreOnceMorePrefs.bundle/images/icon@2x.png
 
 Package: com.thecomputerwhisperer.DetailedCellularUsage
+Version: 2.0.4.1b
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.DetailedCellularUsage_2.0.4.1b_iphoneos-arm.deb
+Size: 29510
+Installed-Size: 192
+MD5sum: 989efc22456efc3719c0a5cc4e195b8a
+Description: Discover HIDDEN cellular data usage from system apps/processes. Control cell data access to internal services.
+Name: DetailedCellularUsage
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/DCU/index.html
+Icon: file:///var/mobile/Library/Application Support/DCU/icon.png
+
+Package: com.thecomputerwhisperer.DetailedCellularUsage
 Version: 2.0.3b
 Section: Tweaks
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>

@@ -26,7 +26,7 @@ body {
 	background-color: #212121;
 	min-font-size: 11px;
 	font-size: 13px;
-	text-align:justify;
+	text-align:left;
 }
 
 body > panel {
@@ -34,10 +34,10 @@ body > panel {
 	width: 100%;
 	margin: 0;
 	border:0;
-	border-top: 1px solid #ffff10;
-	border-bottom: 1px solid #ffff10;
-	border-left: 1px solid #ffff10;
-	border-right: 1px solid #ffff10;
+	border-top: 0px solid #ffff10;
+	border-bottom: 0px solid #ffff10;
+	border-left: 0px solid #ffff10;
+	border-right: 0px solid #ffff10;
 	margin-top:5px;
 	margin-bottom:5px;
 	background-color:black;
@@ -51,21 +51,23 @@ body > panel > fieldset.header {
 	line-height: 20px;
 	border:0;
 	padding-top:-5px
+	/*padding-right: 10px;*/
 	text-align: left;
 }
 
 body > panel > fieldset+fieldset {
 	margin-left:5px;
 	padding-left: 0;
-	border-top: 1px solid #ffff10;
+	/*padding-right: 5px;*/
+	border-top: 0px solid #ffff10;
 	text-align: left;
 }
 
 body > panel > fieldset:last-child {
-	padding-top:5px;
-	padding-bottom:12px;
-	padding-left:12px;
-	padding-right:12px;
+	padding-top:0px;
+	padding-bottom:20px;
+	padding-left:10px;
+	padding-right:10px;
 }
 
 body > panel > fieldset.alert {
@@ -163,7 +165,7 @@ body > panel > fieldset > div {
 body > panel > fieldset > div iframe {
 	display:block;
 	margin:8px auto;
-	outline: solid rgba(204,204,204,0.3) 1px;
+	outline: solid rgba(204,204,204,0) 0px;
 	outline-offset: 0px;
 	zoom: 1.08;
 	-moz-transform: scale(1.08);
@@ -180,8 +182,8 @@ body > panel > fieldset > div > p+p {
 
 body > panel > fieldset > div img {
 	text-align:center;
-	outline: solid rgba(204,204,204,0.3) 1px;
-	outline-offset: -1px;
+	outline: solid rgba(204,204,204,0) 0px;
+	outline-offset: 0px;
 	zoom: 1.05;
 	-moz-transform: scale(1.05);
 	margin:5px 5px;
@@ -195,8 +197,8 @@ body > panel > fieldset > div * {
 body > panel > fieldset > div > table.information {
 	text-align:left;
 	font-size:11px;
-	margin-left:0px;
-	padding-top:8px;
+	margin-top:25px;
+	padding-top:0px;
 }
 
 body > panel > fieldset > div > table.information > tbody > tr > td {
@@ -281,8 +283,8 @@ body.pinstripe > panel > fieldset > div > p {
 
 body.pinstripe > panel > img{
 	margin:8px 0;
-	outline: solid rgba(204,204,204,0.3) 1px;
-	outline-offset: -1px;
+	outline: solid rgba(204,204,204,0) 0px;
+	outline-offset: 0px;
 	zoom: 0.88;
 	-moz-transform: scale(0.88);
 
