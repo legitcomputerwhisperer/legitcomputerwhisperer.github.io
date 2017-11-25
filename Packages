@@ -181,6 +181,22 @@ Name: NoFAMILYCIRCLED X
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/NoFAMILYCIRCLEDX/index.html
 
+Package: com.thecomputerwhisperer.NoMaizeGrabber
+Version: 1.0.0b-1
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.ioscreatix.maize
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.NoMaizeGrabber_1.0.0b-1_iphoneos-arm.deb
+Size: 21958
+Installed-Size: 208
+MD5sum: a83946ca6c6f7631cdd644da1443dbb0
+Description: Hide the Maize control center grabber chevron.
+Name: No Maize Grabber
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/NoGrabber/index.html
+Icon: file:///Library/PreferenceBundles/NoMaizeGrabber.bundle/icon.png
+
 Package: com.thecomputerwhisperer.Print2PDF10
 Version: 1.0.1
 Section: Utilities
