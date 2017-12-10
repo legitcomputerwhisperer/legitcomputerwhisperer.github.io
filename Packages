@@ -213,6 +213,23 @@ Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Print2PDF10/index.html
 Icon: file:///var/mobile/Library/Application Support/Print2PDF10/P2PDF10icon.png
 
+Package: com.thecomputerwhisperer.Revelio
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.Revelio_1.0.0_iphoneos-arm.deb
+Size: 58852
+Installed-Size: 452
+MD5sum: 5b4e323ceb9e13d6f0f85e85ffc354e5
+Description: Make your app icons fade into view
+Name: Revelio
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Revelio/index.html
+Icon: file:///Library/PreferenceBundles/Revelio.bundle/icon@2x.png
+
 Package: com.thecomputerwhisperer.SnapshotWiper
 Version: 1.3b-1+debug
 Section: Tweaks
