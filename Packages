@@ -6,7 +6,6 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.AntennaRemembers_1.1-2_iphoneos-arm.deb
 Size: 4936
-MD5sum: 187e32553ddbab5a59416c5c04e4be29
 Description: For the Antenna app - Enable saving all recent browsing history instead of the default limit of 5.
 Name: AntennaRemembers
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -21,7 +20,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.AppStoreOnceMore_1.1b-1+debug_iphoneos-arm.deb
 Size: 232050
 Installed-Size: 552
-MD5sum: 4c24f5a246a022d9700cbc3e38c6d374
 Description: Fix App Store search and update issues on recent Jailbreak versions.
 Name: App Store Once More
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -37,7 +35,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.AppStoreOnceMore_1.0.1b-1+debug_iphoneos-arm.deb
 Size: 277146
 Installed-Size: 588
-MD5sum: 39a10361f3a7be0b2751faab1755e1ea
 Description: Fix App Store search and update issues caused by recent Jailbreak versions.
 Name: App Store Once More
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -53,7 +50,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.DetailedCellularUsage_2.0.4.1b_iphoneos-arm.deb
 Size: 29510
 Installed-Size: 192
-MD5sum: 989efc22456efc3719c0a5cc4e195b8a
 Description: Discover HIDDEN cellular data usage from system apps/processes. Control cell data access to internal services.
 Name: DetailedCellularUsage
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -69,7 +65,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.DetailedCellularUsage_2.0.3b_iphoneos-arm.deb
 Size: 21372
 Installed-Size: 192
-MD5sum: f375b81b06dce5283a80b44cf762f825
 Description: Discover HIDDEN cellular data usage from system apps/processes. Control cell data access to internal services.
 Name: DetailedCellularUsage
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -85,7 +80,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.DetailedCellularUsage_1.0.1b-1+debug_iphoneos-arm.deb
 Size: 309766
 Installed-Size: 652
-MD5sum: c5ad32bd05018c780beb46a0ab5e327e
 Description: Expose all cellular usage data including system apps and processes. Deny cellular usage to select system apps.
 Name: DetailedCellularUsage
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -101,7 +95,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.MyMusicPlus_1.0.5b-1+debug_iphoneos-arm.deb
 Size: 220378
 Installed-Size: 764
-MD5sum: 8cd33985b67cf9f1d32ca1f1c356cc34
 Description: Customize your Apple Music app experience!
 Name: My Music+
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -117,7 +110,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.MyMusicPlus_1.0.6b-1+debug_iphoneos-arm.deb
 Size: 222788
 Installed-Size: 772
-MD5sum: 222f85ddcf5ebc9a2f3512297d8954e1
 Description: Customize your Apple Music app experience!
 Name: My Music+
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -132,7 +124,6 @@ Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.NoATWAKEUPX_1.2b_iphoneos-arm.deb
 Size: 1932
-MD5sum: 8f7c87d5a6da6f3a48bfd8cbeadfd6e6
 Description: iOS 10 BETA - Disables com.apple.atc.atwakeup daemon/process and stops atwakeup crashes saving you battery life.
 Name: NoATWAKEUP X
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -147,7 +138,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.NoDateToday_1.1.5b-1+debug_iphoneos-arm.deb
 Size: 59340
 Installed-Size: 336
-MD5sum: bebe04c37f5aadf36146372e7ba444dd
 Description: Hides the date in Notification Center and Today View. Widget positions adjusted to prevent unsightly gaps.
 Name: No Date Today
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -161,7 +151,6 @@ Depends: mobilesubstrate, firmware (<= 9.3.5)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.NoFAMILYCIRCLED_0.1.1b_iphoneos-arm.deb
 Size: 1162
-MD5sum: 67606c6d86a7d70408482d6a4ceb5b11
 Description: BETA - Disables the com.apple.familycircled daemon/process preventing frequent familycircled crashes which saves battery life.
 Name: NoFAMILYCIRCLED
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -175,7 +164,6 @@ Depends: firmware (>= 10.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.NoFAMILYCIRCLEDX_0.1-6_iphoneos-arm.deb
 Size: 2094
-MD5sum: 4bf0638219d10bdfa9f0e0636ec593ec
 Description: iOS 10 BETA - Disables com.apple.familycircled daemon/process preventing frequent familycircled crashes which saves battery life.
 Name: NoFAMILYCIRCLED X
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -190,7 +178,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.NoMaizeGrabber_1.0.0b-1_iphoneos-arm.deb
 Size: 21958
 Installed-Size: 208
-MD5sum: a83946ca6c6f7631cdd644da1443dbb0
 Description: Hide the Maize control center grabber chevron.
 Name: No Maize Grabber
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -206,7 +193,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.Print2PDF10_1.0.1_iphoneos-arm.deb
 Size: 21286
 Installed-Size: 192
-MD5sum: fd196809469db8665085b124231a3844
 Description: Virtual PDF document printer for iOS 10.
 Name: Print2PDF10
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -223,7 +209,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.Revelio_1.0.0_iphoneos-arm.deb
 Size: 58852
 Installed-Size: 452
-MD5sum: 5b4e323ceb9e13d6f0f85e85ffc354e5
 Description: Make your app icons fade into view
 Name: Revelio
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -238,7 +223,6 @@ Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.SnapshotWiper_1.3b-1+debug_iphoneos-arm.deb
 Size: 262014
-MD5sum: 8ed2eab5b588296ea614a212450d970d
 Description: Clear Chrome or Safari app switcher snapshot images.
 Name: Snapshot Wiper
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -253,7 +237,6 @@ Depends: mobilesubstrate, firmware (>= 9.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.SnapshotWiperChrome_1.3b_iphoneos-arm.deb
 Size: 54676
-MD5sum: 384d44ff9da46e6bbbee49d6e4183ca8
 Description: Quickly clear Chrome app switcher snapshot images with this shortcut.
 Name: Snapshot Wiper Chrome (SpringBoard Shortcut)
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -268,7 +251,6 @@ Depends: mobilesubstrate, firmware (>= 9.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.SnapshotWiperSafari_1.3b_iphoneos-arm.deb
 Size: 60618
-MD5sum: 5f44cb815e4a03365d86ee36223ef0c7
 Description: Quickly clear Safari app switcher snapshot images with this shortcut.
 Name: Snapshot Wiper Safari (SpringBoard Shortcut)
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -283,7 +265,6 @@ Depends: firmware (<= 9.3.3), com.aditkamath.springy
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.WaddlingDuckRespring_1.0_iphoneos-arm.deb
 Size: 1527616
-MD5sum: 317231359d072eb51884e6ab85934a86
 Description: Animated respring theme featuring an adorable waddling duck. Made as a request from r/jailbreak.
 Name: Waddling Duck Animated Respring Theme
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -297,7 +278,6 @@ Depends: mobilesubstrate, firmware (>= 8.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.boldbatterypercent_2.0b-1+debug_iphoneos-arm.deb
 Size: 92472
-MD5sum: ab423c7cab652103a91c0795d50e4cdd
 Description: Make the iOS battery percent text BOLD!
 Name: BoldBatteryPercent
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -311,7 +291,6 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.chrometabs_1.1b-1+debug_iphoneos-arm.deb
 Size: 5156
-MD5sum: 3c04eaab54ac34c8e7fcfa88b1a82090
 Description: Enable Chrome’s iPad tabbed browsing feature on your iPhone/iPod!
 Name: ChromeTabs
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -325,7 +304,6 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.dttd_1.0.1_iphoneos-arm.deb
 Size: 2642
-MD5sum: 32367039052c41cae216563bd4ede91f
 Description: Stop notification sounds from interrupting your music.
 Name: Don’t Touch That Dial!
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -339,7 +317,6 @@ Depends: firmware (>= 10.1)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.extendedclips_1.0.2_iphoneos-arm.deb
 Size: 29164490
-MD5sum: 531e9a5bc8f00a419fcc78e42e2aa109
 Description: Install the Clips app on iOS 10.1 - 10.2, bypassing Apple's artificial iOS 10.3 requirement. Supports 64-bit devices on iOS 10.1 and above due to required frameworks.
 Name: Extended Clips
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -353,7 +330,6 @@ Depends: mobilesubstrate, firmware (>= 8.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.nomoresmartlinks_1.2-1+debug_iphoneos-arm.deb
 Size: 4936
-MD5sum: 12f6295f1e7b3a3b8bcd223987b5c8e9
 Description: Disable smart links in text/iMessage messages.
 Name: NoMoreSmartLinks
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -367,7 +343,6 @@ Depends: mobilesubstrate, firmware (>= 9.0)
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.nonceditbutton_1.2-1+debug_iphoneos-arm.deb
 Size: 5246
-MD5sum: 6e1299a5523aff6be959c2b28b986b8c
 Description: Removes the "Edit" button at the bottom of the notification center. Perfect for those who are going for a clean setup!
 Name: NoNCEditButton
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -381,7 +356,6 @@ Depends: com.aditkamath.springy
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.starwarsintro_1.0_iphoneos-arm.deb
 Size: 2800182
-MD5sum: cf8c209ec23b9a140624db9036b1eaf0
 Description: Star Wars fan’s this animated respring theme is for you! Required Springy.
 Name: Star Wars Respring Theme
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -396,7 +370,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.stealthcharger_1.0.1b-1+debug_iphoneos-arm.deb
 Size: 4682
 Installed-Size: 136
-MD5sum: 47e577abeaf7a0d8fba6cb512ff8ebc8
 Description: Charge your iDevice silently with Stealth Charger. This tweak simply disables the audible DING and vibration when plugging in your device.
 Name: Stealth Charger
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -410,11 +383,24 @@ Depends: com.aditkamath.springy
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.techcompass_1.1_iphoneos-arm.deb
 Size: 4552228
-MD5sum: 38de6b92de573719924b4d9b76794a3b
 Description: Animated electro-mechanical lock respring theme. Requires Springy.
 Name: Tech Compass - Animated Respring Theme
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Tech Compass Animated Respring Theme/index.html
+
+Package: com.thecomputerwhisperer.togglesafe
+Version: 1.0.1
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.togglesafe_1.0.1_iphoneos-arm.deb
+Size: 5378
+Installed-Size: 136
+Description: Toggle ringer switch rapidly to enter Safe Mode.
+Name: togglesafe
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/togglesafe/index.html
 
 Package: com.thecomputerwhisperer.winxpstartup
 Version: 1.1
@@ -424,7 +410,6 @@ Depends: com.aditkamath.springy
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.winxpstartup_1.1_iphoneos-arm.deb
 Size: 2277474
-MD5sum: 5c9aaa99297d4fc1d59b1a79065559b8
 Description: Feel the nostalgia with the Windows XP Pro respring animation! Requires Springy.
 Name: Win XP Pro Loading Animation
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
