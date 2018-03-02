@@ -417,6 +417,21 @@ Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/Tech Compass Animated Respring Theme/index.html
 
 Package: com.thecomputerwhisperer.togglesafe
+Version: 1.0.2
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.togglesafe_1.0.2_iphoneos-arm.deb
+Size: 7524
+Installed-Size: 136
+MD5sum: 1c38cae45739172c590a152c57dc6138
+Description: Toggle ringer switch rapidly to enter Safe Mode.
+Name: togglesafe
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/togglesafe/index.html
+
+Package: com.thecomputerwhisperer.togglesafe
 Version: 1.0.1
 Section: Tweaks
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
