@@ -313,8 +313,8 @@ Provides: org.coolstar.tweakinject
 Replaces: org.coolstar.tweakinject
 Architecture: iphoneos-arm
 Filename: debs//com.thecomputerwhisperer.cbsafemode_1.0.2_iphoneos-arm.deb
-Size: 83372
-MD5sum: f774d441c9231006c1e7bce87841275e
+Size: 83490
+MD5sum: 448dde9d2b0f4284a71daa827e438cd1
 Description: Circuit Breaker Safe Mode Utility
 Name: Circuit Breaker Safe Mode
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
