@@ -304,17 +304,18 @@ Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/boldbattery/index.html
 
 Package: com.thecomputerwhisperer.cbsafemode
-Version: 1.0.3
+Version: 1.0.3.1
 Priority: important
 Section: System
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Pre-Depends: dpkg (>= 1.13.25-5), org.coolstar.tweakinject
 Depends: firmware (>= 11.00), cy+cpu.arm64, com.ex.libsubstitute
 Provides: org.coolstar.tweakinject
 Replaces: org.coolstar.tweakinject
 Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.cbsafemode_1.0.3_iphoneos-arm.deb
-Size: 101058
-MD5sum: ae2a58e723f59093519712845f50e8b4
+Filename: debs//com.thecomputerwhisperer.cbsafemode_1.0.3.1_iphoneos-arm.deb
+Size: 77496
+MD5sum: 3cdf4bc33158a8471a44fd5d3e2a68d8
 Description: Circuit Breaker Safe Mode Utility
 Name: Circuit Breaker Safe Mode
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
