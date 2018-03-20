@@ -38,26 +38,25 @@ body > panel {
 	border-bottom: 0px solid #ffff10;
 	border-left: 0px solid #ffff10;
 	border-right: 0px solid #ffff10;
-	margin-top:5px;
+	margin-top:10px;
 	margin-bottom:5px;
 	background-color:black;
-	text-align:center;
+	text-align:justify;
 }
 
 body > panel > fieldset.header {
 	display: block;
-	background-color:#202020;
-	color: #cecece;
+	background-color:#ffef3f;
+	color: #ffef3f;
 	line-height: 20px;
-	border:0;
-	padding-top:-15px
-	padding-bottom:15px;
+	border:0px;
+	padding-top:10px;
 	/*padding-right: 10px;*/
-	text-align: left;
+	text-align: center;
 }
 
 body > panel > fieldset+fieldset {
-	margin-left:1px;
+	margin-left:5px;
 	padding-left: 0;
 	/*padding-right: 5px;*/
 	border-top: 0px solid #ffff10;
@@ -65,8 +64,8 @@ body > panel > fieldset+fieldset {
 }
 
 body > panel > fieldset:last-child {
-	padding-top:5px;
-	padding-bottom:15px;
+	padding-top:0px;
+	padding-bottom:20px;
 	padding-left:10px;
 	padding-right:10px;
 }
@@ -173,7 +172,7 @@ body > panel > fieldset > div iframe {
 }
 
 body > panel > fieldset > div {
-	margin-top:8px
+	margin-top:8px;
 	margin-bottom:8px;
 }
 
@@ -185,10 +184,10 @@ body > panel > fieldset > div img {
 	text-align:center;
 	outline: solid rgba(204,204,204,0) 0px;
 	outline-offset: 0px;
-	zoom: 1.05;
+	zoom: 1.0;
 	-moz-transform: scale(1.05);
 	margin:5px 5px;
-	padding-left:8px;
+	padding-left:18px;
 }
 
 body > panel > fieldset > div * {
@@ -199,7 +198,7 @@ body > panel > fieldset > div > table.information {
 	text-align:left;
 	font-size:11px;
 	margin-top:25px;
-	padding-top:0px;
+	padding-top:10px;
 }
 
 body > panel > fieldset > div > table.information > tbody > tr > td {
@@ -229,7 +228,7 @@ div.header {
 	display:block;
 	width: 300px;
 	text-align: center;
-	margin-top: -10px;
+	padding-top: 10px;
 }
 
 div.pic {
