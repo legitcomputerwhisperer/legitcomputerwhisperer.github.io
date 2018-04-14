@@ -336,23 +336,6 @@ Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/ChromeTabs/index.html
 
 Package: com.thecomputerwhisperer.detailedpowerusage
-Version: 1.0.2b
-Section: Tweaks
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate
-Conflicts: org.thebigboss.detailedbatteryusage
-Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.detailedpowerusage_1.0.2b_iphoneos-arm.deb
-Size: 547958
-Installed-Size: 980
-MD5sum: a09a914faddfd7a320f5d9dcb59dbe07
-Description: Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.
-Name: DetailedPowerUsage
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/InternalBatteryData/index.html
-Icon: file:///Library/Application Support/DPUTweakResources/kTCWIcon.png
-
-Package: com.thecomputerwhisperer.detailedpowerusage
 Version: 1.0.0
 Section: Tweaks
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
