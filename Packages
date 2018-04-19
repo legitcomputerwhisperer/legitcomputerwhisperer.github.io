@@ -473,3 +473,86 @@ Name: togglesafe
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/togglesafe/index.html
 
+Package: crash-reporter
+Version: 2.0.0-1
+Section: System
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Pre-Depends: firmware (>= 11.0), cy+cpu.arm64
+Depends: coreutils, dpkg, grep, jp.ashikase.libsymbolicate64, jp.ashikase.libcrashreport64, jp.ashikase.libpackageinfo64, jp.ashikase.techsupport64, mobilesubstrate
+Provides: crash-reporter
+Replaces: crash-reporter
+Architecture: iphoneos-arm
+Filename: debs//crash-reporter_2.0.0-1_iphoneos-arm.deb
+Size: 217376
+MD5sum: b866475a8a09463b3e61e01aeea0b160
+Description: Send useful crash info to developers in iOS 11.x.
+Name: CrashReporterXI
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/CrashReporterXI/index.html
+
+Package: jp.ashikase.libcrashreport64
+Version: 1.0.0-1
+Section: Development
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Pre-Depends: firmware (>= 11.0), cy+cpu.arm64
+Depends: jp.ashikase.libsymbolicate64, jp.ashikase.libpackageinfo64
+Provides: jp.ashikase.libcrashreport
+Replaces: jp.ashikase.libcrashreport
+Architecture: iphoneos-arm
+Filename: debs//jp.ashikase.libcrashreport64_1.0.0-1_iphoneos-arm.deb
+Size: 21508
+MD5sum: 5c8431296a7fa4921924afc579014193
+Description: 64-bit library to parse and symbolicate crash reports. Based on CrashReporter by kennytm and Lance Fetters.
+Name: libcrashreport64
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/libcrashreport64/index.html
+
+Package: jp.ashikase.libpackageinfo64
+Version: 1.0.0-1
+Section: Development
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Pre-Depends: firmware (>= 11.0), cy+cpu.arm64
+Provides: jp.ashikase.libpackageinfo
+Replaces: jp.ashikase.libpackageinfo
+Architecture: iphoneos-arm
+Filename: debs//jp.ashikase.libpackageinfo64_1.0.0-1_iphoneos-arm.deb
+Size: 46548
+MD5sum: e41fd199a3ee731ef387cf5e45ce6b57
+Description: 64-bit library to retrieve package information.
+Name: libpackageinfo64
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/libpackageinfo64/index.html
+
+Package: jp.ashikase.libsymbolicate64
+Version: 1.0.0-1
+Section: Development
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Pre-Depends: firmware (>= 11.0), cy+cpu.arm64
+Provides: jp.ashikase.libsymbolicate
+Replaces: jp.ashikase.libsymbolicate
+Architecture: iphoneos-arm
+Filename: debs//jp.ashikase.libsymbolicate64_1.0.0-1_iphoneos-arm.deb
+Size: 18314
+MD5sum: d5b1ddc043ab4f66b9052f6b19508ae4
+Description: 64-bit library to symbolicate memory addresses. Based on CrashReporter by kennytm.
+Name: libsymbolicate64
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/libsymbolicate64/index.html
+
+Package: jp.ashikase.techsupport64
+Version: 1.0.0-1
+Section: Development
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Pre-Depends: firmware (>= 11.0), cy+cpu.arm64
+Depends: jp.ashikase.libpackageinfo64
+Provides: jp.ashikase.techsupport
+Replaces: jp.ashikase.techsupport
+Architecture: iphoneos-arm
+Filename: debs//jp.ashikase.techsupport64_1.0.0-1_iphoneos-arm.deb
+Size: 31708
+MD5sum: faca17b868a754a8b0080b8087f95dfe
+Description: 64-bit framework to assist in providing feedback to developers.
+Name: TechSupport 64-bit Framework
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/techsupport64/index.html
+
