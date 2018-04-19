@@ -400,6 +400,20 @@ Name: Don’t Touch That Dial!
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/dttd/index.html
 
+Package: com.thecomputerwhisperer.extendedclips
+Version: 1.0.2
+Section: Utilities
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: firmware (>= 10.1)
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.extendedclips_1.0.2_iphoneos-arm.deb
+Size: 29164490
+MD5sum: 531e9a5bc8f00a419fcc78e42e2aa109
+Description: Install the Clips app on iOS 10.1 - 10.2, bypassing Apple's artificial iOS 10.3 requirement. Supports 64-bit devices on iOS 10.1 and above due to required frameworks.
+Name: Extended Clips
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/ExtendedClips/index.html
+
 Package: com.thecomputerwhisperer.nomoresmartlinks
 Version: 1.2-1+debug
 Section: Tweaks
@@ -428,6 +442,20 @@ Name: NoNCEditButton
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/No NC Edit Button/index.html
 
+Package: com.thecomputerwhisperer.starwarsintro
+Version: 1.0
+Section: Themes
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: com.aditkamath.springy
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.starwarsintro_1.0_iphoneos-arm.deb
+Size: 2800182
+MD5sum: cf8c209ec23b9a140624db9036b1eaf0
+Description: Star Wars fan’s this animated respring theme is for you! Required Springy.
+Name: Star Wars Respring Theme
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Star Wars Animated Respring Theme/index.html
+
 Package: com.thecomputerwhisperer.stealthcharger
 Version: 1.0.1b-1+debug
 Section: Tweaks
@@ -442,6 +470,20 @@ Description: Charge your iDevice silently with Stealth Charger. This tweak simpl
 Name: Stealth Charger
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/stealthcharger/index.html
+
+Package: com.thecomputerwhisperer.techcompass
+Version: 1.1
+Section: Themes
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: com.aditkamath.springy
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.techcompass_1.1_iphoneos-arm.deb
+Size: 4552228
+MD5sum: 38de6b92de573719924b4d9b76794a3b
+Description: Animated electro-mechanical lock respring theme. Requires Springy.
+Name: Tech Compass - Animated Respring Theme
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Tech Compass Animated Respring Theme/index.html
 
 Package: com.thecomputerwhisperer.togglesafe
 Version: 1.0.2
@@ -473,6 +515,20 @@ Name: togglesafe
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/togglesafe/index.html
 
+Package: com.thecomputerwhisperer.winxpstartup
+Version: 1.1
+Section: Themes
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: com.aditkamath.springy
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.winxpstartup_1.1_iphoneos-arm.deb
+Size: 2277474
+MD5sum: 5c9aaa99297d4fc1d59b1a79065559b8
+Description: Feel the nostalgia with the Windows XP Pro respring animation! Requires Springy.
+Name: Win XP Pro Loading Animation
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Windows XP Pro Loading Animation/index.html
+
 Package: crash-reporter
 Version: 2.0.0-1
 Section: System
@@ -483,8 +539,9 @@ Provides: crash-reporter
 Replaces: crash-reporter
 Architecture: iphoneos-arm
 Filename: debs//crash-reporter_2.0.0-1_iphoneos-arm.deb
-Size: 217376
-MD5sum: b866475a8a09463b3e61e01aeea0b160
+Size: 217394
+Installed-Size: 1456
+MD5sum: 10729f4f078e72c0ee907ab6bc547cb1
 Description: Send useful crash info to developers in iOS 11.x.
 Name: CrashReporterXI
 Author: Lance Fetters (ashikase) <support@ashikase.com>
@@ -500,8 +557,9 @@ Provides: jp.ashikase.libcrashreport
 Replaces: jp.ashikase.libcrashreport
 Architecture: iphoneos-arm
 Filename: debs//jp.ashikase.libcrashreport64_1.0.0-1_iphoneos-arm.deb
-Size: 21508
-MD5sum: 5c8431296a7fa4921924afc579014193
+Size: 21526
+Installed-Size: 196
+MD5sum: c9f5fa6a326306148b4c790129a6ae70
 Description: 64-bit library to parse and symbolicate crash reports. Based on CrashReporter by kennytm and Lance Fetters.
 Name: libcrashreport64
 Author: Lance Fetters (ashikase) <support@ashikase.com>
@@ -516,8 +574,9 @@ Provides: jp.ashikase.libpackageinfo
 Replaces: jp.ashikase.libpackageinfo
 Architecture: iphoneos-arm
 Filename: debs//jp.ashikase.libpackageinfo64_1.0.0-1_iphoneos-arm.deb
-Size: 46548
-MD5sum: e41fd199a3ee731ef387cf5e45ce6b57
+Size: 46564
+Installed-Size: 720
+MD5sum: 0f8af9893d4f088cff872b42cbb3578c
 Description: 64-bit library to retrieve package information.
 Name: libpackageinfo64
 Author: Lance Fetters (ashikase) <support@ashikase.com>
@@ -532,8 +591,9 @@ Provides: jp.ashikase.libsymbolicate
 Replaces: jp.ashikase.libsymbolicate
 Architecture: iphoneos-arm
 Filename: debs//jp.ashikase.libsymbolicate64_1.0.0-1_iphoneos-arm.deb
-Size: 18314
-MD5sum: d5b1ddc043ab4f66b9052f6b19508ae4
+Size: 18334
+Installed-Size: 200
+MD5sum: 403761c35f0957c6b9d570b3eae4888e
 Description: 64-bit library to symbolicate memory addresses. Based on CrashReporter by kennytm.
 Name: libsymbolicate64
 Author: Lance Fetters (ashikase) <support@ashikase.com>
@@ -549,8 +609,9 @@ Provides: jp.ashikase.techsupport
 Replaces: jp.ashikase.techsupport
 Architecture: iphoneos-arm
 Filename: debs//jp.ashikase.techsupport64_1.0.0-1_iphoneos-arm.deb
-Size: 31708
-MD5sum: faca17b868a754a8b0080b8087f95dfe
+Size: 31724
+Installed-Size: 456
+MD5sum: a36ca08b2ac31b247c8a8d29a1646c55
 Description: 64-bit framework to assist in providing feedback to developers.
 Name: TechSupport 64-bit Framework
 Author: Lance Fetters (ashikase) <support@ashikase.com>
