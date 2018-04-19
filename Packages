@@ -400,20 +400,6 @@ Name: Don’t Touch That Dial!
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/dttd/index.html
 
-Package: com.thecomputerwhisperer.extendedclips
-Version: 1.0.2
-Section: Utilities
-Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depends: firmware (>= 10.1)
-Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.extendedclips_1.0.2_iphoneos-arm.deb
-Size: 29164490
-MD5sum: 531e9a5bc8f00a419fcc78e42e2aa109
-Description: Install the Clips app on iOS 10.1 - 10.2, bypassing Apple's artificial iOS 10.3 requirement. Supports 64-bit devices on iOS 10.1 and above due to required frameworks.
-Name: Extended Clips
-Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
-Depiction: https://legitcomputerwhisperer.github.io/depic/ExtendedClips/index.html
-
 Package: com.thecomputerwhisperer.nomoresmartlinks
 Version: 1.2-1+debug
 Section: Tweaks
