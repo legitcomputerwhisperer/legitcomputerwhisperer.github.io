@@ -401,15 +401,15 @@ Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/dttd/index.html
 
 Package: com.thecomputerwhisperer.eztweaklist
-Version: 1.0-1
+Version: 1.0.1-1
 Section: Addons
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depends: firmware (>=9.0), mobilesubstrate, dpkg, cydia
 Architecture: iphoneos-arm
-Filename: debs//com.thecomputerwhisperer.eztweaklist_1.0-1_iphoneos-arm.deb
-Size: 17240
+Filename: debs//com.thecomputerwhisperer.eztweaklist_1.0.1-1_iphoneos-arm.deb
+Size: 17286
 Installed-Size: 140
-MD5sum: b595b993e968678a58982c55689597c7
+MD5sum: 2e8685907f37faf8d9bc86bed3614be3
 Description: Easily export and share your tweak list.
 Name: EZTweakList
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
