@@ -415,6 +415,21 @@ Name: EZTweakList
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/EZTweakList/index.html
 
+Package: com.thecomputerwhisperer.foldercloserxi
+Version: 1.0.1-4
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.foldercloserxi_1.0.1-4_iphoneos-arm.deb
+Size: 12248
+Installed-Size: 124
+MD5sum: 54c62a3212b2e8538194c4aecef29ed3
+Description: Automatically close folders after launching apps.
+Name: FolderCloserXI
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/FolderCloserXI/index.html
+
 Package: com.thecomputerwhisperer.nomoresmartlinks
 Version: 1.2-1+debug
 Section: Tweaks
