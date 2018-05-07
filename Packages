@@ -416,6 +416,22 @@ Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/EZTweakList/index.html
 
 Package: com.thecomputerwhisperer.foldercloserxi
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.foldercloserxi_1.0.2-1_iphoneos-arm.deb
+Size: 20804
+Installed-Size: 188
+MD5sum: 1cb89204a508905d2920f7b04f94e8c3
+Description: Automatically close folders after launching apps.
+Name: FolderCloserXI
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/FolderCloserXI/index.html
+Icon: file:///Library/PreferenceLoader/Preferences/FolderCloserXI@2x.png
+
+Package: com.thecomputerwhisperer.foldercloserxi
 Version: 1.0.1-4
 Section: Tweaks
 Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
@@ -458,6 +474,20 @@ Name: NoNCEditButton
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/No NC Edit Button/index.html
 
+Package: com.thecomputerwhisperer.starwarsintro
+Version: 1.0
+Section: Themes
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: com.aditkamath.springy
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.starwarsintro_1.0_iphoneos-arm.deb
+Size: 2800182
+MD5sum: cf8c209ec23b9a140624db9036b1eaf0
+Description: Star Wars fan’s this animated respring theme is for you! Required Springy.
+Name: Star Wars Respring Theme
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Star Wars Animated Respring Theme/index.html
+
 Package: com.thecomputerwhisperer.stealthcharger
 Version: 1.0.1b-1+debug
 Section: Tweaks
@@ -472,6 +502,20 @@ Description: Charge your iDevice silently with Stealth Charger. This tweak simpl
 Name: Stealth Charger
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/stealthcharger/index.html
+
+Package: com.thecomputerwhisperer.techcompass
+Version: 1.1
+Section: Themes
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: com.aditkamath.springy
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.techcompass_1.1_iphoneos-arm.deb
+Size: 4552228
+MD5sum: 38de6b92de573719924b4d9b76794a3b
+Description: Animated electro-mechanical lock respring theme. Requires Springy.
+Name: Tech Compass - Animated Respring Theme
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Tech Compass Animated Respring Theme/index.html
 
 Package: com.thecomputerwhisperer.togglesafe
 Version: 1.0.2
@@ -502,4 +546,18 @@ Description: Toggle ringer switch rapidly to enter Safe Mode.
 Name: togglesafe
 Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
 Depiction: https://legitcomputerwhisperer.github.io/depic/togglesafe/index.html
+
+Package: com.thecomputerwhisperer.winxpstartup
+Version: 1.1
+Section: Themes
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: com.aditkamath.springy
+Architecture: iphoneos-arm
+Filename: debs//com.thecomputerwhisperer.winxpstartup_1.1_iphoneos-arm.deb
+Size: 2277474
+MD5sum: 5c9aaa99297d4fc1d59b1a79065559b8
+Description: Feel the nostalgia with the Windows XP Pro respring animation! Requires Springy.
+Name: Win XP Pro Loading Animation
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://legitcomputerwhisperer.github.io/depic/Windows XP Pro Loading Animation/index.html
 
